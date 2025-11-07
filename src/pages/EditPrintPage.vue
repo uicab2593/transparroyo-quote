@@ -80,7 +80,7 @@
     <!-- <q-toggle v-model="printMode" label="Modo impresion" class="no-print"/> -->
 
     <br>
-    <table border="0" cellspacing="0" cellpadding="2" style="margin-bottom: 30px;">
+    <table border="0" cellspacing="0" cellpadding="2" style="margin-bottom: 50px;">
       <tr>
         <td style="width:80%">
           <p class="q-mb-none">
@@ -101,7 +101,7 @@
           </p>
         </td>
         <td style="position: relative;">
-          <img src="~assets/arroyo-logo.webp" style="width: 130px;position: absolute;top: -70px;right: 0;">
+          <img src="~assets/arroyo-logo.webp" style="width: 180px;position: absolute;top: -70px;right: 0;">
         </td>
       </tr>
     </table>
