@@ -41,6 +41,7 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
+      publicPath: '/transparroyo-quote/'
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
