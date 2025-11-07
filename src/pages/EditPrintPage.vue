@@ -81,7 +81,7 @@
 
     <br>
     <table border="0" cellspacing="0" cellpadding="2">
-      <tr>
+      <tr style="height:50px">
         <td style="width:80%">
           <p class="q-mb-none">
             Fecha de cotización: {{ DateTime.fromSQL(date).toFormat('d MMMM yyyy') }}
@@ -100,8 +100,8 @@
             No. Cotización: #<span class="show-print" >{{quoteStore.quoteConsecutive}}</span><q-input style="width: 100px;" class="no-print" v-model="quoteStore.quoteConsecutive" dense outlined />
           </p>
         </td>
-        <td>
-          <img src="~assets/arroyo-logo.webp" style="width: 170px;position: relative;top: -50px;">
+        <td style="position: relative;">
+          <img src="~assets/arroyo-logo.webp" style="width: 170px;position: absolute;top: -50px;right: 0;">
         </td>
       </tr>
     </table>
@@ -219,7 +219,7 @@
           <span class="show-print" >{{detalles}}</span><q-input type="textarea" class="no-print" v-model="detalles" dense outlined />
         </td>
         <td>
-          <table>
+          <table cellspacing="0" cellpadding="0">
             <tr>
               <td>Subtotal:</td>
               <td>₡{{subtotal.toFixed(2)}}</td>
@@ -296,10 +296,10 @@
     table {
       width: 100%;
       border-collapse: collapse;
-      margin-bottom: 25px;
+      margin-bottom: 10px;
     }
     td {
-      padding: 6px 10px;
+      padding: 5px;
       vertical-align: middle;
     }
     td.label {
