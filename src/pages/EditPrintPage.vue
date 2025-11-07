@@ -80,7 +80,7 @@
     <!-- <q-toggle v-model="printMode" label="Modo impresion" class="no-print"/> -->
 
     <br>
-    <table border="0" cellspacing="0" cellpadding="2" style="margin-bottom: 0;">
+    <table border="0" cellspacing="0" cellpadding="2" style="margin-bottom: 30px;">
       <tr>
         <td style="width:80%">
           <p class="q-mb-none">
