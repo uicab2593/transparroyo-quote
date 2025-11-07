@@ -80,8 +80,8 @@
     <!-- <q-toggle v-model="printMode" label="Modo impresion" class="no-print"/> -->
 
     <br>
-    <table border="0" cellspacing="0" cellpadding="2">
-      <tr style="height:50px">
+    <table border="0" cellspacing="0" cellpadding="2" style="margin-bottom: 0;">
+      <tr>
         <td style="width:80%">
           <p class="q-mb-none">
             Fecha de cotización: {{ DateTime.fromSQL(date).toFormat('d MMMM yyyy') }}
@@ -101,7 +101,7 @@
           </p>
         </td>
         <td style="position: relative;">
-          <img src="~assets/arroyo-logo.webp" style="width: 170px;position: absolute;top: -50px;right: 0;">
+          <img src="~assets/arroyo-logo.webp" style="width: 130px;position: absolute;top: -70px;right: 0;">
         </td>
       </tr>
     </table>
