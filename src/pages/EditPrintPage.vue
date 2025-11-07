@@ -76,7 +76,9 @@
   <img src="~assets/arroyo-logo.webp" class="show-print" style="position: absolute;margin: auto;z-index: 0;left: 0;right: 0;max-width: 700px;top: 0;bottom: 0;opacity: .1;">
   <div style="max-width:1000px;margin:0 auto;position: relative;">
     <p class="text-center q-mb-none roboto-slab" style="font-size:35px;">COTIZACIÓN <q-btn class="no-print" round dense color="primary" icon="print" @click="print"/></p>
+
     <!-- <q-toggle v-model="printMode" label="Modo impresion" class="no-print"/> -->
+
     <br>
     <table border="0" cellspacing="0" cellpadding="2">
       <tr>
