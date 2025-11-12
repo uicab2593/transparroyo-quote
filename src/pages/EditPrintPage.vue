@@ -105,12 +105,12 @@
         </td>
       </tr>
     </table>
-    <table border="0" cellspacing="0" cellpadding="2">
+    <table border="0" cellspacing="0" cellpadding="0" style="margin-bottom:0">
           <tr>
             <!-- Columna izquierda -->
             <td style="width:50%; vertical-align: top;">
               <!-- <p class="text-h6">Transp Arroyo Tours CR</p> -->
-              <table>
+              <table style="margin-bottom:0">
                 <tr>
                   <td class="label" colspan="2"><p class="q-mb-none">Transp Arroyo Tours CR</p></td>
                   <!-- <td><span class="show-print" >{{cliente}}</span><q-input class="no-print" v-model="cliente" dense outlined /></td> -->
@@ -136,7 +136,7 @@
 
             <!-- Columna derecha -->
             <td style="width:50%; vertical-align: top;">
-              <table>
+              <table style="margin-bottom:0">
                 <tr>
                   <td class="label">Cliente:</td>
                   <td><span class="show-print" >{{cliente}}</span><q-input class="no-print" v-model="cliente" dense outlined /></td>
@@ -185,8 +185,8 @@
         <tr v-for="(item,i) in items">
           <td><span class="show-print" >{{item.quantity}}</span><q-input class="no-print" v-model="item.quantity" type="number" dense outlined /></td>
           <td><span class="show-print" >{{item.description}}</span><q-input type="textarea" class="no-print" v-model="item.description" dense outlined /></td>
-          <td><span class="show-print" >₡{{item.subtotal}}</span><q-input style="width: 120px;" prefix="₡" class="no-print" type="number" v-model="item.subtotal" dense outlined /></td>
-          <td><span>₡{{item.subtotal * item.quantity}}</span></td>
+          <td><strong class="show-print" >₡{{item.subtotal}}</strong><q-input style="width: 120px;" prefix="₡" class="no-print" type="number" v-model="item.subtotal" dense outlined /></td>
+          <td><strong>₡{{item.subtotal * item.quantity}}</strong></td>
           <td class="no-print">
             <div style="display: flex;">
               <q-btn
@@ -222,23 +222,23 @@
           <table cellspacing="0" cellpadding="0">
             <tr>
               <td>Subtotal:</td>
-              <td>₡{{subtotal.toFixed(2)}}</td>
+              <td><strong>₡{{subtotal.toFixed(2)}}</strong></td>
             </tr>
             <tr :class="{'no-print':!hasIva}">
               <td><q-checkbox class="no-print" v-model="hasIva" /> IVA 13%:</td>
-              <td>₡{{iva.toFixed(2)}}</td>
+              <td><strong>₡{{iva.toFixed(2)}}</strong></td>
             </tr>
             <tr :class="{'no-print':parseFloat(discountPercentage)<=0}">
               <td>DESCUENTO {{discountPercentage}}%: <q-input style="width: 80px;" class="no-print" type="number" v-model="discountPercentage" dense outlined /></td>
-              <td>₡{{discount.toFixed(2)}}</td>
+              <td><strong>₡{{discount.toFixed(2)}}</strong></td>
             </tr>
             <tr>
               <td>TOTAL CRC:</td>
-              <td>₡{{total.toFixed(2)}}</td>
+              <td><strong>₡{{total.toFixed(2)}}</strong></td>
             </tr>
             <tr>
               <td>TOTAL USD:</td>
-              <td>${{totalUsd.toFixed(2)}}</td>
+              <td><strong>${{totalUsd.toFixed(2)}}</strong></td>
             </tr>
           </table>
         </td>
