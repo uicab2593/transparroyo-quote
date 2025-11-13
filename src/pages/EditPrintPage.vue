@@ -105,57 +105,57 @@
         </td>
       </tr>
     </table>
-    <table border="0" cellspacing="0" cellpadding="0" style="margin-bottom:0">
+    <table border="0" cellspacing="0" cellpadding="0" style="margin-bottom:10px">
           <tr>
             <!-- Columna izquierda -->
             <td style="width:50%; vertical-align: top;">
               <!-- <p class="text-h6">Transp Arroyo Tours CR</p> -->
-              <table style="margin-bottom:0">
+              <table style="margin-bottom:0;width:100%; table-layout: fixed;">
                 <tr>
-                  <td class="label" colspan="2"><p class="q-mb-none">Transp Arroyo Tours CR</p></td>
+                  <td colspan="12"><strong>Transp Arroyo Tours CR</strong></td>
                   <!-- <td><span class="show-print" >{{cliente}}</span><q-input class="no-print" v-model="cliente" dense outlined /></td> -->
                 </tr>
                 <tr>
-                  <td class="label">CED:</td>
-                  <td><span class="show-print" >{{ced}}</span><q-input class="no-print" v-model="ced" dense outlined /></td>
+                  <td colspan="3"><strong>CED:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{ced}}</span><q-input class="no-print" v-model="ced" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">Dirección:</td>
-                  <td><span class="show-print" >{{direccion}}</span><q-input class="no-print" v-model="direccion" dense outlined /></td>
+                  <td colspan="3"><strong>Dirección:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{direccion}}</span><q-input class="no-print" v-model="direccion" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">Teléfono:</td>
-                  <td><span class="show-print" >{{telefono}}</span><q-input class="no-print" v-model="telefono" dense outlined /></td>
+                  <td colspan="3"><strong>Teléfono:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{telefono}}</span><q-input class="no-print" v-model="telefono" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">E-mail:</td>
-                  <td><span class="show-print" >{{email}}</span><q-input class="no-print" v-model="email" dense outlined /></td>
+                  <td colspan="3"><strong>E-mail:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{email}}</span><q-input class="no-print" v-model="email" dense outlined /></td>
                 </tr>
               </table>
             </td>
 
             <!-- Columna derecha -->
             <td style="width:50%; vertical-align: top;">
-              <table style="margin-bottom:0">
+              <table style="margin-bottom:0;width:100%; table-layout: fixed;">
                 <tr>
-                  <td class="label">Cliente:</td>
-                  <td><span class="show-print" >{{cliente}}</span><q-input class="no-print" v-model="cliente" dense outlined /></td>
+                  <td colspan="3"><strong>Cliente:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{cliente}}</span><q-input class="no-print" v-model="cliente" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">CED:</td>
-                  <td><span class="show-print" >{{clienteCed}}</span><q-input class="no-print" v-model="clienteCed" dense outlined /></td>
+                  <td colspan="3"><strong>CED:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{clienteCed}}</span><q-input class="no-print" v-model="clienteCed" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">Dirección:</td>
-                  <td><span class="show-print" >{{clienteDireccion}}</span><q-input class="no-print" v-model="clienteDireccion" dense outlined /></td>
+                  <td colspan="3"><strong>Dirección:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{clienteDireccion}}</span><q-input class="no-print" v-model="clienteDireccion" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">Teléfono:</td>
-                  <td><span class="show-print" >{{clienteTelefono}}</span><q-input class="no-print" v-model="clienteTelefono" dense outlined /></td>
+                  <td colspan="3"><strong>Teléfono:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{clienteTelefono}}</span><q-input class="no-print" v-model="clienteTelefono" dense outlined /></td>
                 </tr>
                 <tr>
-                  <td class="label">E-mail:</td>
-                  <td><span class="show-print" >{{clienteEmail}}</span><q-input class="no-print" v-model="clienteEmail" dense outlined /></td>
+                  <td colspan="3"><strong>E-mail:</strong></td>
+                  <td colspan="9"><span class="show-print" >{{clienteEmail}}</span><q-input class="no-print" v-model="clienteEmail" dense outlined /></td>
                 </tr>
               </table>
             </td>
@@ -174,10 +174,10 @@
     <table border="1" cellspacing="0" cellpadding="2">
       <thead>
         <tr class="tr1">
-          <th class="label" style="width: 10%;">CANT. BUSES</th>
-          <th class="label" style="width: 70%;">DETALLES DEL VEHÍCULO</th>
-          <th class="label" style="width: 10%;">PRECIO UNITARIO</th>
-          <th class="label" style="width: 10%;">TOTAL</th>
+          <th style="width: 10%;"><strong>CANT. BUSES</strong></th>
+          <th style="width: 70%;"><strong>DETALLES DEL VEHÍCULO</strong></th>
+          <th style="width: 10%;"><strong>PRECIO UNITARIO</strong></th>
+          <th style="width: 10%;"><strong>TOTAL</strong></th>
           <th class="no-print"></th>
         </tr>
       </thead>
@@ -211,8 +211,8 @@
     </table>
     <table border="1" cellspacing="0" cellpadding="2">
       <tr>
-        <td class="label" style="width:60%">Detalles del servicio</td>
-        <td class="label"></td>
+        <td style="width:60%"><strong>Detalles del servicio</strong></td>
+        <td></td>
       </tr>
       <tr>
         <td>
@@ -246,7 +246,7 @@
     </table>
     <table border="1" cellspacing="0" cellpadding="2">
       <tr>
-        <td class="label">Observaciones</td>
+        <td><strong>Observaciones</strong></td>
       </tr>
       <tr>
         <td>
