@@ -15,9 +15,11 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.16.4",
+    "localforage": "^1.10.0",
     "luxon": "^3.7.2",
     "pinia": "^3.0.1",
     "pinia-plugin-persistedstate": "^4.7.1",
+    "pinia-plugin-persistedstate-2": "^2.0.32",
     "quasar": "^2.16.0",
     "vue": "3.5.20",
     "vue-router": "^4.0.0"
