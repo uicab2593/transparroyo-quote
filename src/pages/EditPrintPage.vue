@@ -1,6 +1,7 @@
 <script setup>
   import { ref, onMounted, computed } from 'vue'
   import CalcPopup from 'components/CalcPopup.vue'
+  import ShorttextPopup from 'components/ShorttextPopup.vue'
   import { useQuoteStore } from 'stores/quote'
   import { DateTime, Settings } from "luxon";
 
@@ -19,7 +20,7 @@
   const printMode = ref(true)
 
   const detalles = ref('')
-  const observaciones = ref('TODO MOVIMIENTO EXTRA A LO COTIZADO TIENE COSTO ADICIONAL. EL SERVICIO INCLUYE INICAMENTE LOS KILOMETROS ESTABLECIDOS EN LA PRESENTE COTIZACION CUALQUIER RECORIDO ADICIONAL O EXTENCION DEL TRAYECTO TENDRA UN COSTO ADICIONAL')
+  const observaciones = ref('')
   const items = ref([])
 
   const quoteStore = useQuoteStore()
@@ -27,7 +28,7 @@
   function addItem(){
     items.value.push({
       quantity:1,
-      description:'',
+      description:'Microbus jac 2024,placa SJB18831, asientos reclinables, A/C, maletero, hielera, cargadores usb',
       subtotal:0,
       // discount:0,
       // iva:0,
@@ -68,7 +69,8 @@
   function save () {
     date.value = proxyDate.value
   }
-
+   const shorttextDialog = ref(false)
+   const currentItemIndex = ref(0)
   // DateTime.fromSQL(value).toFormat('d MMM yyyy')
 </script>
 
@@ -170,6 +172,7 @@
         icon="add"
         @click="addItem"
       />
+      <ShorttextPopup v-model="shorttextDialog" @onSave="txt => items[currentItemIndex].description = txt"/>
     </div>
     <table border="1" cellspacing="0" cellpadding="2">
       <thead>
@@ -184,7 +187,22 @@
       <tbody>
         <tr v-for="(item,i) in items">
           <td><span class="show-print" >{{item.quantity}}</span><q-input class="no-print" v-model="item.quantity" type="number" dense outlined /></td>
-          <td><span class="show-print" >{{item.description}}</span><q-input type="textarea" class="no-print" v-model="item.description" dense outlined /></td>
+          <td>
+            <span class="show-print" >{{item.description}}</span>
+            <div class="flex no-print">
+              <q-input type="textarea" class="no-print inline-block" style="width: 90%;" v-model="item.description" dense outlined />
+              <div class="no-print" style="margin-left: 5px; display: flex; flex-direction: column;width: 8%;" >
+                <q-btn
+                    class="no-print"
+                    style="margin-bottom: 5px;"
+                    dense
+                    color="warning"
+                    icon="note"
+                    @click="shorttextDialog = true; currentItemIndex = i"
+                />
+              </div>
+            </div>
+          </td>
           <td><strong class="show-print" >₡{{item.subtotal}}</strong><q-input style="width: 120px;" prefix="₡" class="no-print" type="number" v-model="item.subtotal" dense outlined /></td>
           <td><strong>₡{{item.subtotal * item.quantity}}</strong></td>
           <td class="no-print">
@@ -250,7 +268,7 @@
       </tr>
       <tr>
         <td>
-          <span class="show-print" style="min-height:100px;color:red">{{observaciones}}</span><q-input type="textarea" class="no-print" v-model="observaciones" dense outlined />
+          <span class="show-print" style="min-height:100px;color:red">{{quoteStore.lastmsg}}</span><q-input type="textarea" class="no-print" v-model="quoteStore.lastmsg" dense outlined />
         </td>
       </tr>
     </table>
