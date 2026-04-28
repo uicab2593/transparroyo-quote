@@ -255,7 +255,7 @@
               <td><strong>₡{{total.toFixed(2)}}</strong></td>
             </tr>
             <tr>
-              <td>TOTAL USD:</td>
+              <td>TOTAL USD: <q-input style="width: 120px;" class="no-print" type="number" label="Tipo de cambio" v-model="tipoCambio" dense outlined /></td>
               <td><strong>${{totalUsd.toFixed(2)}}</strong></td>
             </tr>
           </table>

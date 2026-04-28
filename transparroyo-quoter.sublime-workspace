@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"ite",
+				"items"
+			],
+			[
+				"shot",
+				"shorttextDialog"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
 				"wi",
 				"width"
 			],
@@ -494,55 +514,16 @@
 			[
 				"pickupDa",
 				"pickupDatetime"
-			],
-			[
-				"mo",
-				"modifier"
-			],
-			[
-				"end_",
-				"end_time"
-			],
-			[
-				"start",
-				"start_time"
-			],
-			[
-				"sta",
-				"start_time"
-			],
-			[
-				"pick",
-				"pickupDatetime"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "src/pages/IndexPage.vue",
-			"redo_stack":
-			[
-				[
-					4,
-					1,
-					"",
-					null,
-					"AQAAAOIAAAAAAAAA4gAAAAAAAABfAAAATWljcm9idXMgamFjIDIwMjQscGxhY2EgU0pCMTg4MzEsIGFzaWVudG9zIHJlY2xpbmFibGVzLCBBL0MsIG1hbGV0ZXJvLCBoaWVsZXJhLCBjYXJnYWRvcmVzIHVzYiw",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAQAAAAAAAEEBAAAAAAAAAAAAAAAA8L8"
-				]
-			],
-			"settings":
-			{
-				"buffer_size": 226,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/pages/EditPrintPage.vue",
 			"settings":
 			{
-				"buffer_size": 12139,
+				"buffer_size": 12728,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -554,7 +535,7 @@
 					"",
 					null,
 					"AQAAANQDAAAAAAAAMwQAAAAAAAAAAAAA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADUAwAAAAAAANQDAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANQDAAAAAAAA1AMAAAAAAAAAAAAAAADwvw"
 				],
 				[
 					15,
@@ -562,7 +543,5583 @@
 					"left_delete",
 					null,
 					"AQAAADIEAAAAAAAAMgQAAAAAAAABAAAALA",
-					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzBAAAAAAAADMEAAAAAAAAAAAAAAAA8L8"
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADMEAAAAAAAAMwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAPgfAAAAAAAA+R8AAAAAAAAAAAAA+R8AAAAAAAADIAAAAAAAAAAAAAD5HwAAAAAAAPkfAAAAAAAACgAAACAgICAgICAgICD5HwAAAAAAAAUgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+B8AAAAAAAD4HwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"auto_indent_tag",
+					null,
+					"BAAAAJAgAAAAAAAAkSAAAAAAAAAAAAAAkSAAAAAAAACdIAAAAAAAAAAAAACRIAAAAAAAAJEgAAAAAAAADAAAACAgICAgICAgICAgIJEgAAAAAAAAmyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkCAAAAAAAACQIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADogAAAAAAAAOyAAAAAAAAAAAAAAOyAAAAAAAABHIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOiAAAAAAAAA6IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJ0gAAAAAAAAniAAAAAAAAAAAAAAniAAAAAAAACqIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnSAAAAAAAACdIAAAAAAAAP///////+9/"
+				],
+				[
+					42,
+					1,
+					"paste",
+					null,
+					"AQAAAKogAAAAAAAAWiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqiAAAAAAAACqIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAADsgAAAAAAAAPCAAAAAAAAAAAAAAOyAAAAAAAABHIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATSAAAAAAAABNIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "div"
+					},
+					"AwAAAEcgAAAAAAAASCAAAAAAAAAAAAAASCAAAAAAAABJIAAAAAAAAAAAAABJIAAAAAAAAEogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARyAAAAAAAABHIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert_completion",
+					{
+						"completion": "<div>$0</div>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "div"
+					},
+					"AgAAAEcgAAAAAAAARyAAAAAAAAADAAAAZGl2RyAAAAAAAABSIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASiAAAAAAAABKIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAEwgAAAAAAAAaCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					2,
+					"swap_line_up",
+					null,
+					"BAAAAG8gAAAAAAAAbyAAAAAAAAAgAQAAICAgICAgICAgICAgPHEtaW5wdXQgdHlwZT0idGV4dGFyZWEiIGNsYXNzPSJuby1wcmludCIgdi1tb2RlbD0iaXRlbS5kZXNjcmlwdGlvbiIgZGVuc2Ugb3V0bGluZWQgLz4KICAgICAgICAgICAgPHEtYnRuCiAgICAgICAgICAgICAgICByb3VuZAogICAgICAgICAgICAgICAgZGVuc2UKICAgICAgICAgICAgICAgIGNvbG9yPSJwcmltYXJ5IgogICAgICAgICAgICAgICAgaWNvbj0iY2FsY3VsYXRlIgogICAgICAgICAgICAgICAgQGNsaWNrPSJpdGVtLmRpYWxvZyA9IHRydWUiCiAgICAgICAgICAgICAgLz4KXCAAAAAAAAB8IQAAAAAAAAAAAABcIAAAAAAAAFwgAAAAAAAAIAEAACAgICAgICAgICAgIDxxLWlucHV0IHR5cGU9InRleHRhcmVhIiBjbGFzcz0ibm8tcHJpbnQiIHYtbW9kZWw9Iml0ZW0uZGVzY3JpcHRpb24iIGRlbnNlIG91dGxpbmVkIC8+CiAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgcm91bmQKICAgICAgICAgICAgICAgIGRlbnNlCiAgICAgICAgICAgICAgICBjb2xvcj0icHJpbWFyeSIKICAgICAgICAgICAgICAgIGljb249ImNhbGN1bGF0ZSIKICAgICAgICAgICAgICAgIEBjbGljaz0iaXRlbS5kaWFsb2cgPSB0cnVlIgogICAgICAgICAgICAgIC8+Ck0gAAAAAAAAbSEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbyAAAAAAAACPIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"indent",
+					null,
+					"CAAAAE0gAAAAAAAATyAAAAAAAAAAAAAAsiAAAAAAAAC0IAAAAAAAAAAAAADHIAAAAAAAAMkgAAAAAAAAAAAAAN8gAAAAAAAA4SAAAAAAAAAAAAAA9yAAAAAAAAD5IAAAAAAAAAAAAAAZIQAAAAAAABshAAAAAAAAAAAAADwhAAAAAAAAPiEAAAAAAAAAAAAAaiEAAAAAAABsIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATSAAAAAAAABtIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHwhAAAAAAAAfCEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAfSEAAAAAAAB9IQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					65,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAHwhAAAAAAAAfCEAAAAAAAAOAAAAICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAfCEAAAAAAAB8IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert",
+					{
+						"characters": " c"
+					},
+					"AgAAAEsgAAAAAAAATCAAAAAAAAAAAAAATCAAAAAAAABNIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASyAAAAAAAABLIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert_completion",
+					{
+						"completion": "class=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "class"
+					},
+					"AgAAAEwgAAAAAAAATCAAAAAAAAABAAAAY0wgAAAAAAAAVCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATSAAAAAAAABNIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "fl"
+					},
+					"AgAAAFMgAAAAAAAAVCAAAAAAAAAAAAAAVCAAAAAAAABVIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyAAAAAAAABTIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert_completion",
+					{
+						"completion": "flex",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "flex"
+					},
+					"AgAAAFMgAAAAAAAAUyAAAAAAAAACAAAAZmxTIAAAAAAAAFcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVSAAAAAAAABVIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFMgAAAAAAAAUyAAAAAAAAAEAAAAZmxleA",
+					"AQAAAAAAAAABAAAAVyAAAAAAAABXIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAEwgAAAAAAAATSAAAAAAAAAAAAAATSAAAAAAAABZIAAAAAAAAAAAAABZIAAAAAAAAFkgAAAAAAAACAAAAGNsYXNzPSIi",
+					"AQAAAAAAAAABAAAAVCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAE0gAAAAAAAATSAAAAAAAAAMAAAAICAgICAgICAgICAgTCAAAAAAAABMIAAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAWSAAAAAAAABZIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "sty"
+					},
+					"AwAAAEwgAAAAAAAATSAAAAAAAAAAAAAATSAAAAAAAABOIAAAAAAAAAAAAABOIAAAAAAAAE8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert_completion",
+					{
+						"completion": "style=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "style"
+					},
+					"AgAAAEwgAAAAAAAATCAAAAAAAAADAAAAc3R5TCAAAAAAAABUIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATyAAAAAAAABPIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"insert",
+					{
+						"characters": "dis"
+					},
+					"AwAAAFMgAAAAAAAAVCAAAAAAAAAAAAAAVCAAAAAAAABVIAAAAAAAAAAAAABVIAAAAAAAAFYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyAAAAAAAABTIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert_completion",
+					{
+						"completion": "display",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "display"
+					},
+					"AgAAAFMgAAAAAAAAUyAAAAAAAAADAAAAZGlzUyAAAAAAAABaIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAViAAAAAAAABWIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAFogAAAAAAAAWyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWiAAAAAAAABaIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAFMgAAAAAAAAUyAAAAAAAAAIAAAAZGlzcGxheWlRIAAAAAAAAFEgAAAAAAAAAgAAAD0i",
+					"AQAAAAAAAAABAAAAWyAAAAAAAABbIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEwgAAAAAAAATCAAAAAAAAAGAAAAc3R5bGUi",
+					"AQAAAAAAAAABAAAAUiAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAEwgAAAAAAAATSAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert_completion",
+					{
+						"completion": "class=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "class"
+					},
+					"AgAAAEwgAAAAAAAATCAAAAAAAAABAAAAY0wgAAAAAAAAVCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATSAAAAAAAABNIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "inline-block"
+					},
+					"DAAAAFMgAAAAAAAAVCAAAAAAAAAAAAAAVCAAAAAAAABVIAAAAAAAAAAAAABVIAAAAAAAAFYgAAAAAAAAAAAAAFYgAAAAAAAAVyAAAAAAAAAAAAAAVyAAAAAAAABYIAAAAAAAAAAAAABYIAAAAAAAAFkgAAAAAAAAAAAAAFkgAAAAAAAAWiAAAAAAAAAAAAAAWiAAAAAAAABbIAAAAAAAAAAAAABbIAAAAAAAAFwgAAAAAAAAAAAAAFwgAAAAAAAAXSAAAAAAAAAAAAAAXSAAAAAAAABeIAAAAAAAAAAAAABeIAAAAAAAAF8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyAAAAAAAABTIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"cut",
+					null,
+					"AQAAAEwgAAAAAAAATCAAAAAAAAAUAAAAY2xhc3M9ImlubGluZS1ibG9jayI",
+					"AQAAAAAAAAABAAAAYCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEsgAAAAAAAASyAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAATCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": " on"
+					},
+					"AwAAAIMgAAAAAAAAhCAAAAAAAAAAAAAAhCAAAAAAAACFIAAAAAAAAAAAAACFIAAAAAAAAIYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgyAAAAAAAACDIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIUgAAAAAAAAhSAAAAAAAAABAAAAboQgAAAAAAAAhCAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAhiAAAAAAAACGIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "inlin"
+					},
+					"BQAAAIQgAAAAAAAAhSAAAAAAAAAAAAAAhSAAAAAAAACGIAAAAAAAAAAAAACGIAAAAAAAAIcgAAAAAAAAAAAAAIcgAAAAAAAAiCAAAAAAAAAAAAAAiCAAAAAAAACJIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhCAAAAAAAACEIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAIQgAAAAAAAAhCAAAAAAAAAFAAAAaW5saW4",
+					"AQAAAAAAAAABAAAAiSAAAAAAAACJIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "inline-b"
+					},
+					"CAAAAIQgAAAAAAAAhSAAAAAAAAAAAAAAhSAAAAAAAACGIAAAAAAAAAAAAACGIAAAAAAAAIcgAAAAAAAAAAAAAIcgAAAAAAAAiCAAAAAAAAAAAAAAiCAAAAAAAACJIAAAAAAAAAAAAACJIAAAAAAAAIogAAAAAAAAAAAAAIogAAAAAAAAiyAAAAAAAAAAAAAAiyAAAAAAAACMIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhCAAAAAAAACEIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAIwgAAAAAAAAjSAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjCAAAAAAAACMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIwgAAAAAAAAjCAAAAAAAAABAAAAbIsgAAAAAAAAiyAAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAjSAAAAAAAACNIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "bl"
+					},
+					"AgAAAIsgAAAAAAAAjCAAAAAAAAAAAAAAjCAAAAAAAACNIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiyAAAAAAAACLIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIwgAAAAAAAAjCAAAAAAAAABAAAAbIsgAAAAAAAAiyAAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAAjSAAAAAAAACNIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "block"
+					},
+					"BQAAAIsgAAAAAAAAjCAAAAAAAAAAAAAAjCAAAAAAAACNIAAAAAAAAAAAAACNIAAAAAAAAI4gAAAAAAAAAAAAAI4gAAAAAAAAjyAAAAAAAAAAAAAAjyAAAAAAAACQIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiyAAAAAAAACLIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": " s"
+					},
+					"AgAAAJEgAAAAAAAAkiAAAAAAAAAAAAAAkiAAAAAAAACTIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkSAAAAAAAACRIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJIgAAAAAAAAkiAAAAAAAAABAAAAc5EgAAAAAAAAkSAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkyAAAAAAAACTIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": " w-100"
+					},
+					"BgAAAJAgAAAAAAAAkSAAAAAAAAAAAAAAkSAAAAAAAACSIAAAAAAAAAAAAACSIAAAAAAAAJMgAAAAAAAAAAAAAJMgAAAAAAAAlCAAAAAAAAAAAAAAlCAAAAAAAACVIAAAAAAAAAAAAACVIAAAAAAAAJYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkCAAAAAAAACQIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					119,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAJMgAAAAAAAAkyAAAAAAAAADAAAAMTAwkiAAAAAAAACSIAAAAAAAAAEAAAAt",
+					"AQAAAAAAAAABAAAAliAAAAAAAACWIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					120,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJEgAAAAAAAAkSAAAAAAAAABAAAAd5AgAAAAAAAAkCAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkiAAAAAAAACSIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " styl"
+					},
+					"BQAAAJEgAAAAAAAAkiAAAAAAAAAAAAAAkiAAAAAAAACTIAAAAAAAAAAAAACTIAAAAAAAAJQgAAAAAAAAAAAAAJQgAAAAAAAAlSAAAAAAAAAAAAAAlSAAAAAAAACWIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkSAAAAAAAACRIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert_completion",
+					{
+						"completion": "style",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "style"
+					},
+					"AgAAAJIgAAAAAAAAkiAAAAAAAAAEAAAAc3R5bJIgAAAAAAAAlyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAliAAAAAAAACWIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAJcgAAAAAAAAmCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlyAAAAAAAACXIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJggAAAAAAAAmiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmCAAAAAAAACYIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": "wi"
+					},
+					"AgAAAJkgAAAAAAAAmiAAAAAAAAAAAAAAmiAAAAAAAACbIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmSAAAAAAAACZIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert_completion",
+					{
+						"completion": "width: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "width"
+					},
+					"AgAAAJkgAAAAAAAAmSAAAAAAAAACAAAAd2mZIAAAAAAAAKEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmyAAAAAAAACbIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "100%"
+					},
+					"BAAAAKAgAAAAAAAAoSAAAAAAAAAAAAAAoSAAAAAAAACiIAAAAAAAAAAAAACiIAAAAAAAAKMgAAAAAAAAAAAAAKMgAAAAAAAApCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoCAAAAAAAACgIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					3,
+					"left_delete",
+					null,
+					"AwAAAKIgAAAAAAAAoiAAAAAAAAABAAAAMKEgAAAAAAAAoSAAAAAAAAABAAAAMKAgAAAAAAAAoCAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAoyAAAAAAAACjIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"insert",
+					{
+						"characters": "90"
+					},
+					"AgAAAKAgAAAAAAAAoSAAAAAAAAAAAAAAoSAAAAAAAACiIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoCAAAAAAAACgIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAOggAAAAAAAA6SAAAAAAAAAAAAAA6CAAAAAAAAD2IAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/yAAAAAAAAD/IAAAAAAAAAAAAAAAmIJA"
+				],
+				[
+					140,
+					1,
+					"insert",
+					{
+						"characters": "\t\tcla"
+					},
+					"BQAAAPYgAAAAAAAA+CAAAAAAAAAAAAAA+CAAAAAAAAD6IAAAAAAAAAAAAAD6IAAAAAAAAPsgAAAAAAAAAAAAAPsgAAAAAAAA/CAAAAAAAAAAAAAA/CAAAAAAAAD9IAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"insert_completion",
+					{
+						"completion": "class",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "class"
+					},
+					"AgAAAPogAAAAAAAA+iAAAAAAAAADAAAAY2xh+iAAAAAAAAD/IAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/SAAAAAAAAD9IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAP8gAAAAAAAAACEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/yAAAAAAAAD/IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					143,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAAAhAAAAAAAAAiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"insert",
+					{
+						"characters": "no-"
+					},
+					"AwAAAAEhAAAAAAAAAiEAAAAAAAAAAAAAAiEAAAAAAAADIQAAAAAAAAAAAAADIQAAAAAAAAQhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAASEAAAAAAAABIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"insert_completion",
+					{
+						"completion": "no-print",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "no-print"
+					},
+					"AgAAAAEhAAAAAAAAASEAAAAAAAADAAAAbm8tASEAAAAAAAAJIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABCEAAAAAAAAEIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": " ms-2"
+					},
+					"BQAAAAkhAAAAAAAACiEAAAAAAAAAAAAACiEAAAAAAAALIQAAAAAAAAAAAAALIQAAAAAAAAwhAAAAAAAAAAAAAAwhAAAAAAAADSEAAAAAAAAAAAAADSEAAAAAAAAOIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACSEAAAAAAAAJIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAAkhAAAAAAAACiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACSEAAAAAAAAJIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAkhAAAAAAAACSEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAACiEAAAAAAAAKIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"insert",
+					{
+						"characters": "1-"
+					},
+					"AgAAAAohAAAAAAAACyEAAAAAAAAAAAAACyEAAAAAAAAMIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACiEAAAAAAAAKIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					2,
+					"left_delete",
+					null,
+					"AgAAAAshAAAAAAAACyEAAAAAAAABAAAALQohAAAAAAAACiEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAADCEAAAAAAAAMIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"insert",
+					{
+						"characters": "q-"
+					},
+					"AgAAAAohAAAAAAAACyEAAAAAAAAAAAAACyEAAAAAAAAMIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACiEAAAAAAAAKIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA0hAAAAAAAADSEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAADiEAAAAAAAAOIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAA0hAAAAAAAADiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADSEAAAAAAAANIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA0hAAAAAAAADSEAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAADiEAAAAAAAAOIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAA4hAAAAAAAADiEAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAADyEAAAAAAAAPIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					170,
+					5,
+					"left_delete",
+					null,
+					"BQAAAA0hAAAAAAAADSEAAAAAAAABAAAALQwhAAAAAAAADCEAAAAAAAABAAAAbQshAAAAAAAACyEAAAAAAAABAAAALQohAAAAAAAACiEAAAAAAAABAAAAcQkhAAAAAAAACSEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAADiEAAAAAAAAOIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					173,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAOggAAAAAAAA6SAAAAAAAAAAAAAA6CAAAAAAAAD2IAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACSEAAAAAAAAJIQAAAAAAAAAAAAAA4GxA"
+				],
+				[
+					174,
+					1,
+					"insert",
+					{
+						"characters": "\t\tstyle="
+					},
+					"CAAAAPYgAAAAAAAA+CAAAAAAAAAAAAAA+CAAAAAAAAD6IAAAAAAAAAAAAAD6IAAAAAAAAPsgAAAAAAAAAAAAAPsgAAAAAAAA/CAAAAAAAAAAAAAA/CAAAAAAAAD9IAAAAAAAAAAAAAD9IAAAAAAAAP4gAAAAAAAAAAAAAP4gAAAAAAAA/yAAAAAAAAAAAAAA/yAAAAAAAAAAIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAAAhAAAAAAAAAiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAACEAAAAAAAAAIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					176,
+					1,
+					"insert",
+					{
+						"characters": "mar"
+					},
+					"AwAAAAEhAAAAAAAAAiEAAAAAAAAAAAAAAiEAAAAAAAADIQAAAAAAAAAAAAADIQAAAAAAAAQhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAASEAAAAAAAABIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert_completion",
+					{
+						"completion": "margin-left: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "margin-left"
+					},
+					"AgAAAAEhAAAAAAAAASEAAAAAAAADAAAAbWFyASEAAAAAAAAPIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABCEAAAAAAAAEIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": "5px"
+					},
+					"AwAAAA4hAAAAAAAADyEAAAAAAAAAAAAADyEAAAAAAAAQIQAAAAAAAAAAAAAQIQAAAAAAABEhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADiEAAAAAAAAOIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJshAAAAAAAAmyEAAAAAAAAEAAAAaWNvbg",
+					"AQAAAAAAAAABAAAAnyEAAAAAAACfIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": "text"
+					},
+					"BAAAAJshAAAAAAAAnCEAAAAAAAAAAAAAnCEAAAAAAACdIQAAAAAAAAAAAACdIQAAAAAAAJ4hAAAAAAAAAAAAAJ4hAAAAAAAAnyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmyEAAAAAAACbIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAJshAAAAAAAAmyEAAAAAAAAQAAAAdGV4dD0iY2FsY3VsYXRlIokhAAAAAAAAiSEAAAAAAAASAAAAICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAmyEAAAAAAACrIQAAAAAAAP///////+9/"
+				],
+				[
+					202,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIghAAAAAAAAiCEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAiSEAAAAAAACJIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMchAAAAAAAAxyEAAAAAAAABAAAAL8UhAAAAAAAAxSEAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAyCEAAAAAAADIIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAMYhAAAAAAAAxyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxiEAAAAAAADGIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					210,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAAMchAAAAAAAAziEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxyEAAAAAAADHIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					214,
+					1,
+					"insert",
+					{
+						"characters": "asd"
+					},
+					"AwAAAMYhAAAAAAAAxyEAAAAAAAAAAAAAxyEAAAAAAADIIQAAAAAAAAAAAADIIQAAAAAAAMkhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxiEAAAAAAADGIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					217,
+					1,
+					"insert",
+					{
+						"characters": "Tex"
+					},
+					"AwAAAMkhAAAAAAAAyiEAAAAAAAAAAAAAyiEAAAAAAADLIQAAAAAAAAAAAADLIQAAAAAAAMwhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAySEAAAAAAADJIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAMYhAAAAAAAAxiEAAAAAAAAGAAAAYXNkVGV4",
+					"AQAAAAAAAAABAAAAzCEAAAAAAADMIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					219,
+					1,
+					"insert",
+					{
+						"characters": "TCT"
+					},
+					"AwAAAMYhAAAAAAAAxyEAAAAAAAAAAAAAxyEAAAAAAADIIQAAAAAAAAAAAADIIQAAAAAAAMkhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxiEAAAAAAADGIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMghAAAAAAAAyCEAAAAAAAABAAAAVMchAAAAAAAAxyEAAAAAAAABAAAAQw",
+					"AQAAAAAAAAABAAAAySEAAAAAAADJIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"insert",
+					{
+						"characters": "C"
+					},
+					"AQAAAMchAAAAAAAAyCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxyEAAAAAAADHIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMchAAAAAAAAxyEAAAAAAAABAAAAQw",
+					"AQAAAAAAAAABAAAAyCEAAAAAAADIIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"insert",
+					{
+						"characters": "XT1"
+					},
+					"AwAAAMchAAAAAAAAyCEAAAAAAAAAAAAAyCEAAAAAAADJIQAAAAAAAAAAAADJIQAAAAAAAMohAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxyEAAAAAAADHIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					228,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAEkhAAAAAAAASSEAAAAAAAAFAAAAcm91bmQ3IQAAAAAAADchAAAAAAAAEgAAACAgICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAATiEAAAAAAABOIQAAAAAAAP///////+9/"
+				],
+				[
+					229,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYhAAAAAAAANiEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAANyEAAAAAAAA3IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"insert",
+					{
+						"characters": "item."
+					},
+					"BgAAAIshAAAAAAAAjCEAAAAAAAAAAAAAjCEAAAAAAACMIQAAAAAAABIAAABpdGVtLmRpYWxvZyA9IHRydWWMIQAAAAAAAI0hAAAAAAAAAAAAAI0hAAAAAAAAjiEAAAAAAAAAAAAAjiEAAAAAAACPIQAAAAAAAAAAAACPIQAAAAAAAJAhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiyEAAAAAAACdIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					238,
+					1,
+					"insert",
+					{
+						"characters": "des"
+					},
+					"AwAAAJAhAAAAAAAAkSEAAAAAAAAAAAAAkSEAAAAAAACSIQAAAAAAAAAAAACSIQAAAAAAAJMhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkCEAAAAAAACQIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert_completion",
+					{
+						"completion": "description",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "description"
+					},
+					"AgAAAJAhAAAAAAAAkCEAAAAAAAADAAAAZGVzkCEAAAAAAACbIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkyEAAAAAAACTIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					240,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAJshAAAAAAAAnCEAAAAAAAAAAAAAnCEAAAAAAACdIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmyEAAAAAAACbIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					241,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJ0hAAAAAAAAniEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnSEAAAAAAACdIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					244,
+					1,
+					"insert",
+					{
+						"characters": "''"
+					},
+					"AgAAAJ4hAAAAAAAAnyEAAAAAAAAAAAAAnyEAAAAAAACgIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAniEAAAAAAACeIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					247,
+					1,
+					"",
+					null,
+					"AQAAAJ8hAAAAAAAA/SEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnyEAAAAAAACfIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					262,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAGghAAAAAAAAaCEAAAAAAAAHAAAAcHJpbWFyeQ",
+					"AQAAAAAAAAABAAAAbyEAAAAAAABvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"insert",
+					{
+						"characters": "warning"
+					},
+					"BwAAAGghAAAAAAAAaSEAAAAAAAAAAAAAaSEAAAAAAABqIQAAAAAAAAAAAABqIQAAAAAAAGshAAAAAAAAAAAAAGshAAAAAAAAbCEAAAAAAAAAAAAAbCEAAAAAAABtIQAAAAAAAAAAAABtIQAAAAAAAG4hAAAAAAAAAAAAAG4hAAAAAAAAbyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaCEAAAAAAABoIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					266,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAGghAAAAAAAAaCEAAAAAAAAHAAAAd2FybmluZw",
+					"AQAAAAAAAAABAAAAbyEAAAAAAABvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"insert",
+					{
+						"characters": "info"
+					},
+					"BAAAAGghAAAAAAAAaSEAAAAAAAAAAAAAaSEAAAAAAABqIQAAAAAAAAAAAABqIQAAAAAAAGshAAAAAAAAAAAAAGshAAAAAAAAbCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaCEAAAAAAABoIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					270,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAGghAAAAAAAAaCEAAAAAAAAEAAAAaW5mbw",
+					"AQAAAAAAAAABAAAAbCEAAAAAAABsIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					1,
+					"insert",
+					{
+						"characters": "warning"
+					},
+					"BwAAAGghAAAAAAAAaSEAAAAAAAAAAAAAaSEAAAAAAABqIQAAAAAAAAAAAABqIQAAAAAAAGshAAAAAAAAAAAAAGshAAAAAAAAbCEAAAAAAAAAAAAAbCEAAAAAAABtIQAAAAAAAAAAAABtIQAAAAAAAG4hAAAAAAAAAAAAAG4hAAAAAAAAbyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaCEAAAAAAABoIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					282,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAABwiAAAAAAAAZSMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0yAAAAAAAAAcIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					287,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFsjAAAAAAAAWyMAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAXCMAAAAAAABcIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					288,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAFsjAAAAAAAAXCMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWyMAAAAAAABbIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					293,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAANMgAAAAAAAA1CAAAAAAAAAAAAAA0yAAAAAAAADhIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5yAAAAAAAADnIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					294,
+					1,
+					"insert",
+					{
+						"characters": "diuv"
+					},
+					"BAAAAOEgAAAAAAAA4iAAAAAAAAAAAAAA4iAAAAAAAADjIAAAAAAAAAAAAADjIAAAAAAAAOQgAAAAAAAAAAAAAOQgAAAAAAAA5SAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4SAAAAAAAADhIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					295,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAOUgAAAAAAAA5yAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5SAAAAAAAADlIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					296,
+					4,
+					"left_delete",
+					null,
+					"BAAAAOYgAAAAAAAA5iAAAAAAAAABAAAAIOUgAAAAAAAA5SAAAAAAAAABAAAAIOQgAAAAAAAA5CAAAAAAAAABAAAAduMgAAAAAAAA4yAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAA5yAAAAAAAADnIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					297,
+					1,
+					"insert",
+					{
+						"characters": "v"
+					},
+					"AQAAAOMgAAAAAAAA5CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4yAAAAAAAADjIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					298,
+					1,
+					"insert_completion",
+					{
+						"completion": "<div>$0</div>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "div"
+					},
+					"AgAAAOEgAAAAAAAA4SAAAAAAAAADAAAAZGl24SAAAAAAAADsIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5CAAAAAAAADkIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					302,
+					1,
+					"cut",
+					null,
+					"AQAAAEAhAAAAAAAAQCEAAAAAAAAQAAAAY2xhc3M9Im5vLXByaW50Ig",
+					"AQAAAAAAAAABAAAAQCEAAAAAAABQIQAAAAAAAP///////+9/"
+				],
+				[
+					304,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOUgAAAAAAAA5iAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5SAAAAAAAADlIAAAAAAAAAAAAAAAgF9A"
+				],
+				[
+					305,
+					1,
+					"paste",
+					null,
+					"AQAAAOYgAAAAAAAA9iAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5iAAAAAAAADmIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAPcgAAAAAAAAFyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9yAAAAAAAAD3IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					311,
+					1,
+					"cut",
+					null,
+					"AQAAAEUhAAAAAAAARSEAAAAAAAAZAAAAc3R5bGU9Im1hcmdpbi1sZWZ0OiA1cHg7Ig",
+					"AQAAAAAAAAABAAAARSEAAAAAAABeIQAAAAAAAP///////+9/"
+				],
+				[
+					312,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAADMhAAAAAAAAMyEAAAAAAAASAAAAICAgICAgICAgICAgICAgICAgMiEAAAAAAAAyIQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAARSEAAAAAAABFIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					316,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPYgAAAAAAAA9yAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					317,
+					1,
+					"paste",
+					null,
+					"AQAAAPcgAAAAAAAAECEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9yAAAAAAAAD3IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					319,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAE0hAAAAAAAATSEAAAAAAAASAAAAICAgICAgICAgICAgICAgICAgTCEAAAAAAABMIQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAAXyEAAAAAAABfIQAAAAAAAAAAAAAAsHpA"
+				],
+				[
+					329,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AQAAAEciAAAAAAAARyIAAAAAAAAsAAAAICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1sZWZ0OiA1cHg7Igo",
+					"AQAAAAAAAAABAAAAVyIAAAAAAABXIgAAAAAAAAAAAAAAAFxA"
+				],
+				[
+					343,
+					3,
+					"swap_line_up",
+					null,
+					"BgAAADghAAAAAAAAOCEAAAAAAAAXAgAAICAgICAgICAgICAgICA8cS1idG4KICAgICAgICAgICAgICAgICAgZGVuc2UKICAgICAgICAgICAgICAgICAgY29sb3I9Indhcm5pbmciCiAgICAgICAgICAgICAgICAgIEBjbGljaz0iaXRlbS5kZXNjcmlwdGlvbiA9ICdNaWNyb2J1cyBqYWMgMjAyNCxwbGFjYSBTSkIxODgzMSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIEEvQywgbWFsZXRlcm8sIGhpZWxlcmEsIGNhcmdhZG9yZXMgdXNiJyIKICAgICAgICAgICAgICA+VFhUMTwvcS1idG4+CiAgICAgICAgICAgICAgPHEtYnRuCiAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgZGVuc2UKICAgICAgICAgICAgICAgICAgY29sb3I9Indhcm5pbmciCiAgICAgICAgICAgICAgICAgIEBjbGljaz0iaXRlbS5kZXNjcmlwdGlvbiA9ICdNaWNyb2J1cyBqYWMgMjAyNCxwbGFjYSBTSkIxODgzMSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIEEvQywgbWFsZXRlcm8sIGhpZWxlcmEsIGNhcmdhZG9yZXMgdXNiJyIKICAgICAgICAgICAgICA+VFhUMjwvcS1idG4+CiMhAAAAAAAAOiMAAAAAAAAAAAAAIyEAAAAAAAAjIQAAAAAAABcCAAAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICBjb2xvcj0id2FybmluZyIKICAgICAgICAgICAgICAgICAgQGNsaWNrPSJpdGVtLmRlc2NyaXB0aW9uID0gJ01pY3JvYnVzIGphYyAyMDI0LHBsYWNhIFNKQjE4ODMxLCBhc2llbnRvcyByZWNsaW5hYmxlcywgQS9DLCBtYWxldGVybywgaGllbGVyYSwgY2FyZ2Fkb3JlcyB1c2InIgogICAgICAgICAgICAgID5UWFQxPC9xLWJ0bj4KICAgICAgICAgICAgICA8cS1idG4KICAgICAgICAgICAgICAgICAgY2xhc3M9Im5vLXByaW50IgogICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICBjb2xvcj0id2FybmluZyIKICAgICAgICAgICAgICAgICAgQGNsaWNrPSJpdGVtLmRlc2NyaXB0aW9uID0gJ01pY3JvYnVzIGphYyAyMDI0LHBsYWNhIFNKQjE4ODMxLCBhc2llbnRvcyByZWNsaW5hYmxlcywgQS9DLCBtYWxldGVybywgaGllbGVyYSwgY2FyZ2Fkb3JlcyB1c2InIgogICAgICAgICAgICAgID5UWFQyPC9xLWJ0bj4KEiEAAAAAAAApIwAAAAAAAAAAAAASIQAAAAAAABIhAAAAAAAAFwIAACAgICAgICAgICAgICAgPHEtYnRuCiAgICAgICAgICAgICAgICAgIGRlbnNlCiAgICAgICAgICAgICAgICAgIGNvbG9yPSJ3YXJuaW5nIgogICAgICAgICAgICAgICAgICBAY2xpY2s9Iml0ZW0uZGVzY3JpcHRpb24gPSAnTWljcm9idXMgamFjIDIwMjQscGxhY2EgU0pCMTg4MzEsIGFzaWVudG9zIHJlY2xpbmFibGVzLCBBL0MsIG1hbGV0ZXJvLCBoaWVsZXJhLCBjYXJnYWRvcmVzIHVzYiciCiAgICAgICAgICAgICAgPlRYVDE8L3EtYnRuPgogICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICBjbGFzcz0ibm8tcHJpbnQiCiAgICAgICAgICAgICAgICAgIGRlbnNlCiAgICAgICAgICAgICAgICAgIGNvbG9yPSJ3YXJuaW5nIgogICAgICAgICAgICAgICAgICBAY2xpY2s9Iml0ZW0uZGVzY3JpcHRpb24gPSAnTWljcm9idXMgamFjIDIwMjQscGxhY2EgU0pCMTg4MzEsIGFzaWVudG9zIHJlY2xpbmFibGVzLCBBL0MsIG1hbGV0ZXJvLCBoaWVsZXJhLCBjYXJnYWRvcmVzIHVzYiciCiAgICAgICAgICAgICAgPlRYVDI8L3EtYnRuPgrTIAAAAAAAAOoiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOCEAAAAAAABPIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAACkjAAAAAAAAQCUAAAAAAAAAAAAA0yAAAAAAAADTIAAAAAAAABcCAAAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICBjb2xvcj0id2FybmluZyIKICAgICAgICAgICAgICAgICAgQGNsaWNrPSJpdGVtLmRlc2NyaXB0aW9uID0gJ01pY3JvYnVzIGphYyAyMDI0LHBsYWNhIFNKQjE4ODMxLCBhc2llbnRvcyByZWNsaW5hYmxlcywgQS9DLCBtYWxldGVybywgaGllbGVyYSwgY2FyZ2Fkb3JlcyB1c2InIgogICAgICAgICAgICAgID5UWFQxPC9xLWJ0bj4KICAgICAgICAgICAgICA8cS1idG4KICAgICAgICAgICAgICAgICAgY2xhc3M9Im5vLXByaW50IgogICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICBjb2xvcj0id2FybmluZyIKICAgICAgICAgICAgICAgICAgQGNsaWNrPSJpdGVtLmRlc2NyaXB0aW9uID0gJ01pY3JvYnVzIGphYyAyMDI0LHBsYWNhIFNKQjE4ODMxLCBhc2llbnRvcyByZWNsaW5hYmxlcywgQS9DLCBtYWxldGVybywgaGllbGVyYSwgY2FyZ2Fkb3JlcyB1c2InIgogICAgICAgICAgICAgID5UWFQyPC9xLWJ0bj4K",
+					"AQAAAAAAAAABAAAA0yAAAAAAAADqIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					345,
+					1,
+					"indent",
+					null,
+					"CwAAABIhAAAAAAAAFCEAAAAAAAAAAAAAKSEAAAAAAAArIQAAAAAAAAAAAABDIQAAAAAAAEUhAAAAAAAAAAAAAGchAAAAAAAAaSEAAAAAAAAAAAAA+CEAAAAAAAD6IQAAAAAAAAAAAAAWIgAAAAAAABgiAAAAAAAAAAAAAC0iAAAAAAAALyIAAAAAAAAAAAAAUiIAAAAAAABUIgAAAAAAAAAAAABsIgAAAAAAAG4iAAAAAAAAAAAAAJAiAAAAAAAAkiIAAAAAAAAAAAAAISMAAAAAAAAjIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEiEAAAAAAAApIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4jAAAAAAAAPiMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAPyMAAAAAAAA/IwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					349,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAD4jAAAAAAAAPiMAAAAAAAAQAAAAICAgICAgICAgICAgICAgIA",
+					"AQAAAAAAAAABAAAAPiMAAAAAAAA+IwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					355,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPUgAAAAAAAA9iAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9SAAAAAAAAD1IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					356,
+					1,
+					"insert",
+					{
+						"characters": "row"
+					},
+					"AwAAAPYgAAAAAAAA9yAAAAAAAAAAAAAA9yAAAAAAAAD4IAAAAAAAAAAAAAD4IAAAAAAAAPkgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					357,
+					3,
+					"left_delete",
+					null,
+					"AwAAAPggAAAAAAAA+CAAAAAAAAABAAAAd/cgAAAAAAAA9yAAAAAAAAABAAAAb/YgAAAAAAAA9iAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAA+SAAAAAAAAD5IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
+					1,
+					"insert",
+					{
+						"characters": "b"
+					},
+					"AQAAAPYgAAAAAAAA9yAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					359,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPYgAAAAAAAA9iAAAAAAAAABAAAAYg",
+					"AQAAAAAAAAABAAAA9yAAAAAAAAD3IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					360,
+					1,
+					"insert",
+					{
+						"characters": "flex"
+					},
+					"BAAAAPYgAAAAAAAA9yAAAAAAAAAAAAAA9yAAAAAAAAD4IAAAAAAAAAAAAAD4IAAAAAAAAPkgAAAAAAAAAAAAAPkgAAAAAAAA+iAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					363,
+					1,
+					"insert",
+					{
+						"characters": "-column"
+					},
+					"BwAAAPogAAAAAAAA+yAAAAAAAAAAAAAA+yAAAAAAAAD8IAAAAAAAAAAAAAD8IAAAAAAAAP0gAAAAAAAAAAAAAP0gAAAAAAAA/iAAAAAAAAAAAAAA/iAAAAAAAAD/IAAAAAAAAAAAAAD/IAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAASEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+iAAAAAAAAD6IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					368,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUgAAAAAAAA9SAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA9iAAAAAAAAD2IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					370,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUgAAAAAAAA9SAAAAAAAAALAAAAZmxleC1jb2x1bW4",
+					"AQAAAAAAAAABAAAA9SAAAAAAAAAAIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					373,
+					1,
+					"insert",
+					{
+						"characters": " fis"
+					},
+					"BAAAAA8hAAAAAAAAECEAAAAAAAAAAAAAECEAAAAAAAARIQAAAAAAAAAAAAARIQAAAAAAABIhAAAAAAAAAAAAABIhAAAAAAAAEyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADyEAAAAAAAAPIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					3,
+					"left_delete",
+					null,
+					"AwAAABIhAAAAAAAAEiEAAAAAAAABAAAAcxEhAAAAAAAAESEAAAAAAAABAAAAaRAhAAAAAAAAECEAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAEyEAAAAAAAATIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					375,
+					1,
+					"insert",
+					{
+						"characters": "dis"
+					},
+					"AwAAABAhAAAAAAAAESEAAAAAAAAAAAAAESEAAAAAAAASIQAAAAAAAAAAAAASIQAAAAAAABMhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAECEAAAAAAAAQIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					376,
+					1,
+					"insert_completion",
+					{
+						"completion": "display: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "display"
+					},
+					"AgAAABAhAAAAAAAAECEAAAAAAAADAAAAZGlzECEAAAAAAAAaIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEyEAAAAAAAATIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					377,
+					1,
+					"insert",
+					{
+						"characters": "flex"
+					},
+					"BAAAABkhAAAAAAAAGiEAAAAAAAAAAAAAGiEAAAAAAAAbIQAAAAAAAAAAAAAbIQAAAAAAABwhAAAAAAAAAAAAABwhAAAAAAAAHSEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGSEAAAAAAAAZIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					379,
+					1,
+					"insert",
+					{
+						"characters": " flex-"
+					},
+					"BgAAAB4hAAAAAAAAHyEAAAAAAAAAAAAAHyEAAAAAAAAgIQAAAAAAAAAAAAAgIQAAAAAAACEhAAAAAAAAAAAAACEhAAAAAAAAIiEAAAAAAAAAAAAAIiEAAAAAAAAjIQAAAAAAAAAAAAAjIQAAAAAAACQhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHiEAAAAAAAAeIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					381,
+					1,
+					"insert_completion",
+					{
+						"completion": "flex-direction: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "flex-direction"
+					},
+					"AgAAAB8hAAAAAAAAHyEAAAAAAAAFAAAAZmxleC0fIQAAAAAAADAhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJCEAAAAAAAAkIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					382,
+					1,
+					"insert",
+					{
+						"characters": "roi"
+					},
+					"AwAAAC8hAAAAAAAAMCEAAAAAAAAAAAAAMCEAAAAAAAAxIQAAAAAAAAAAAAAxIQAAAAAAADIhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					383,
+					1,
+					"left_delete",
+					null,
+					"AQAAADEhAAAAAAAAMSEAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAMiEAAAAAAAAyIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					384,
+					1,
+					"insert",
+					{
+						"characters": "w"
+					},
+					"AQAAADEhAAAAAAAAMiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMSEAAAAAAAAxIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					385,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAC8hAAAAAAAALyEAAAAAAAADAAAAcm93",
+					"AQAAAAAAAAABAAAAMiEAAAAAAAAyIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					386,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAC8hAAAAAAAAMSEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					387,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAC8hAAAAAAAALyEAAAAAAAABAAAAJy8hAAAAAAAALyEAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAMCEAAAAAAAAwIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					388,
+					1,
+					"insert",
+					{
+						"characters": "w"
+					},
+					"AQAAAC8hAAAAAAAAMCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					389,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8hAAAAAAAALyEAAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAAMCEAAAAAAAAwIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					390,
+					1,
+					"insert",
+					{
+						"characters": "col"
+					},
+					"AwAAAC8hAAAAAAAAMCEAAAAAAAAAAAAAMCEAAAAAAAAxIQAAAAAAAAAAAAAxIQAAAAAAADIhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					391,
+					1,
+					"insert_completion",
+					{
+						"completion": "column",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "column"
+					},
+					"AgAAAC8hAAAAAAAALyEAAAAAAAADAAAAY29sLyEAAAAAAAA1IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMiEAAAAAAAAyIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					401,
+					1,
+					"insert",
+					{
+						"characters": " s"
+					},
+					"AgAAADchAAAAAAAAOCEAAAAAAAAAAAAAOCEAAAAAAAA5IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANyEAAAAAAAA3IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					402,
+					1,
+					"left_delete",
+					null,
+					"AQAAADghAAAAAAAAOCEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAOSEAAAAAAAA5IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					404,
+					1,
+					"insert",
+					{
+						"characters": "wi"
+					},
+					"AgAAADYhAAAAAAAANyEAAAAAAAAAAAAANyEAAAAAAAA4IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANiEAAAAAAAA2IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					405,
+					1,
+					"insert_completion",
+					{
+						"completion": "width: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "width"
+					},
+					"AgAAADYhAAAAAAAANiEAAAAAAAACAAAAd2k2IQAAAAAAAD4hAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOCEAAAAAAAA4IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					406,
+					1,
+					"insert",
+					{
+						"characters": "10%"
+					},
+					"AwAAAD0hAAAAAAAAPiEAAAAAAAAAAAAAPiEAAAAAAAA/IQAAAAAAAAAAAAA/IQAAAAAAAEAhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPSEAAAAAAAA9IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					410,
+					2,
+					"left_delete",
+					null,
+					"AgAAAD4hAAAAAAAAPiEAAAAAAAABAAAAMD0hAAAAAAAAPSEAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAPyEAAAAAAAA/IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					411,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAD0hAAAAAAAAPiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPSEAAAAAAAA9IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					416,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEsgAAAAAAAATCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASyAAAAAAAABLIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					417,
+					1,
+					"insert_completion",
+					{
+						"completion": "class=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "class"
+					},
+					"AQAAAEwgAAAAAAAAVCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATCAAAAAAAABMIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					418,
+					1,
+					"insert",
+					{
+						"characters": "flex"
+					},
+					"BAAAAFMgAAAAAAAAVCAAAAAAAAAAAAAAVCAAAAAAAABVIAAAAAAAAAAAAABVIAAAAAAAAFYgAAAAAAAAAAAAAFYgAAAAAAAAVyAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUyAAAAAAAABTIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					422,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAGghAAAAAAAAaSEAAAAAAAAAAAAAaCEAAAAAAAB4IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgSEAAAAAAACBIQAAAAAAAAAAAAAAgGhA"
+				],
+				[
+					423,
+					1,
+					"insert",
+					{
+						"characters": "\t\tcl"
+					},
+					"BAAAAHghAAAAAAAAeiEAAAAAAAAAAAAAeiEAAAAAAAB8IQAAAAAAAAAAAAB8IQAAAAAAAH0hAAAAAAAAAAAAAH0hAAAAAAAAfiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeCEAAAAAAAB4IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					424,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAHwhAAAAAAAAfCEAAAAAAAACAAAAY2w",
+					"AQAAAAAAAAABAAAAfiEAAAAAAAB+IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					425,
+					1,
+					"insert",
+					{
+						"characters": "st"
+					},
+					"AgAAAHwhAAAAAAAAfSEAAAAAAAAAAAAAfSEAAAAAAAB+IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfCEAAAAAAAB8IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					427,
+					1,
+					"insert_completion",
+					{
+						"completion": "style",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "style"
+					},
+					"AgAAAHwhAAAAAAAAfCEAAAAAAAACAAAAc3R8IQAAAAAAAIEhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfiEAAAAAAAB+IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					428,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAIEhAAAAAAAAgiEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgSEAAAAAAACBIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					429,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAIIhAAAAAAAAhCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgiEAAAAAAACCIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					430,
+					1,
+					"insert",
+					{
+						"characters": "marg"
+					},
+					"BAAAAIMhAAAAAAAAhCEAAAAAAAAAAAAAhCEAAAAAAACFIQAAAAAAAAAAAACFIQAAAAAAAIYhAAAAAAAAAAAAAIYhAAAAAAAAhyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgyEAAAAAAACDIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					431,
+					1,
+					"insert_completion",
+					{
+						"completion": "margin-bottom: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "margin-bottom"
+					},
+					"AgAAAIMhAAAAAAAAgyEAAAAAAAAEAAAAbWFyZ4MhAAAAAAAAkyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhyEAAAAAAACHIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					432,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAJIhAAAAAAAAkyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkiEAAAAAAACSIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					435,
+					1,
+					"insert",
+					{
+						"characters": "px"
+					},
+					"AgAAAJMhAAAAAAAAlCEAAAAAAAAAAAAAlCEAAAAAAACVIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkyEAAAAAAACTIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					439,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJIhAAAAAAAAkiEAAAAAAAABAAAAMg",
+					"AQAAAAAAAAABAAAAkyEAAAAAAACTIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					440,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAJIhAAAAAAAAkyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkiEAAAAAAACSIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					449,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAHgiAAAAAAAAeCIAAAAAAAAEAAAAVFhUMQ",
+					"AQAAAAAAAAABAAAAfCIAAAAAAAB8IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					450,
+					1,
+					"insert",
+					{
+						"characters": "JAC"
+					},
+					"AwAAAHgiAAAAAAAAeSIAAAAAAAAAAAAAeSIAAAAAAAB6IgAAAAAAAAAAAAB6IgAAAAAAAHsiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeCIAAAAAAAB4IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					459,
+					1,
+					"",
+					null,
+					"AgAAAAYiAAAAAAAAbCIAAAAAAAAAAAAAbCIAAAAAAABsIgAAAAAAAF4AAABNaWNyb2J1cyBqYWMgMjAyNCxwbGFjYSBTSkIxODgzMSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIEEvQywgbWFsZXRlcm8sIGhpZWxlcmEsIGNhcmdhZG9yZXMgdXNi",
+					"AQAAAAAAAAABAAAAZCIAAAAAAAAGIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					466,
+					1,
+					"",
+					null,
+					"AgAAADYjAAAAAAAAiSMAAAAAAAAAAAAAiSMAAAAAAACJIwAAAAAAAF4AAABNaWNyb2J1cyBqYWMgMjAyNCxwbGFjYSBTSkIxODgzMSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIEEvQywgbWFsZXRlcm8sIGhpZWxlcmEsIGNhcmdhZG9yZXMgdXNi",
+					"AQAAAAAAAAABAAAANiMAAAAAAACUIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					473,
+					1,
+					"insert",
+					{
+						"characters": "TYT"
+					},
+					"BAAAAJ0jAAAAAAAAniMAAAAAAAAAAAAAniMAAAAAAACeIwAAAAAAAAQAAABUWFQyniMAAAAAAACfIwAAAAAAAAAAAACfIwAAAAAAAKAjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnSMAAAAAAAChIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					474,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJ8jAAAAAAAAnyMAAAAAAAABAAAAVJ4jAAAAAAAAniMAAAAAAAABAAAAWQ",
+					"AQAAAAAAAAABAAAAoCMAAAAAAACgIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					475,
+					1,
+					"insert",
+					{
+						"characters": "OY"
+					},
+					"AgAAAJ4jAAAAAAAAnyMAAAAAAAAAAAAAnyMAAAAAAACgIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAniMAAAAAAACeIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					486,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAGghAAAAAAAAaSEAAAAAAAAAAAAAaCEAAAAAAAB4IQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiiEAAAAAAACKIQAAAAAAAAAAAAAAwG1A"
+				],
+				[
+					487,
+					1,
+					"insert",
+					{
+						"characters": "\t\tclass="
+					},
+					"CAAAAHghAAAAAAAAeiEAAAAAAAAAAAAAeiEAAAAAAAB8IQAAAAAAAAAAAAB8IQAAAAAAAH0hAAAAAAAAAAAAAH0hAAAAAAAAfiEAAAAAAAAAAAAAfiEAAAAAAAB/IQAAAAAAAAAAAAB/IQAAAAAAAIAhAAAAAAAAAAAAAIAhAAAAAAAAgSEAAAAAAAAAAAAAgSEAAAAAAACCIQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeCEAAAAAAAB4IQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					488,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAIIhAAAAAAAAhCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgiEAAAAAAACCIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					489,
+					1,
+					"paste",
+					null,
+					"AQAAAIMhAAAAAAAAiyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgyEAAAAAAACDIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					502,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFcgAAAAAAAAWCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVyAAAAAAAABXIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					503,
+					1,
+					"paste",
+					null,
+					"AQAAAFggAAAAAAAAYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWCAAAAAAAABYIAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					509,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJkiAAAAAAAAmSIAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAmiIAAAAAAACaIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					523,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAANYjAAAAAAAA8yQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuSIAAAAAAADWIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					530,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAOckAAAAAAAA5yQAAAAAAAADAAAAVE9Z",
+					"AQAAAAAAAAABAAAA6iQAAAAAAADqJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					531,
+					1,
+					"insert",
+					{
+						"characters": "MAX"
+					},
+					"AwAAAOckAAAAAAAA6CQAAAAAAAAAAAAA6CQAAAAAAADpJAAAAAAAAAAAAADpJAAAAAAAAOokAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5yQAAAAAAADnJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					545,
+					1,
+					"",
+					null,
+					"AgAAAIAkAAAAAAAA8CQAAAAAAAAAAAAA8CQAAAAAAADwJAAAAAAAAFMAAABVbmlkYWQgVG95b3RhIGhpYWNlIDExIHBlcnNvbmFzLCBhL2MsIG1hbGV0ZXJvLCBjYW5hc3RhLCBhc2llbnRvcyByZWNsaW5hYmxlcywgV2lGaQ",
+					"AQAAAAAAAAABAAAA0yQAAAAAAACAJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					551,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAMYhAAAAAAAA9iEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuiEAAAAAAAC6IQAAAAAAAAAAAAAAgG9A"
+				],
+				[
+					552,
+					11,
+					"swap_line_down",
+					null,
+					"FgAAABAiAAAAAAAAQCIAAAAAAAAAAAAAxiEAAAAAAADGIQAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7Igo0IgAAAAAAAGQiAAAAAAAAAAAAAOAhAAAAAAAA4CEAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKzCIAAAAAAAD8IgAAAAAAAAAAAAAEIgAAAAAAAAQiAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiCukiAAAAAAAAGSMAAAAAAAAAAAAAnCIAAAAAAACcIgAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgoAIwAAAAAAADAjAAAAAAAAAAAAALkiAAAAAAAAuSIAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKJSMAAAAAAABVIwAAAAAAAAAAAADQIgAAAAAAANAiAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiCj8jAAAAAAAAbyMAAAAAAAAAAAAA9SIAAAAAAAD1IgAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgpjIwAAAAAAAJMjAAAAAAAAAAAAAA8jAAAAAAAADyMAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIK6SMAAAAAAAAZJAAAAAAAAAAAAAAzIwAAAAAAADMjAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiCgYkAAAAAAAANiQAAAAAAAAAAAAAuSMAAAAAAAC5IwAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgodJAAAAAAAAE0kAAAAAAAAAAAAANYjAAAAAAAA1iMAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIK",
+					"AQAAAAAAAAABAAAA6iEAAAAAAADqIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					555,
+					6,
+					"swap_line_up",
+					null,
+					"DAAAAO0jAAAAAAAA7SMAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIK1iMAAAAAAAAGJAAAAAAAAAAAAADWIwAAAAAAANYjAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiCrkjAAAAAAAA6SMAAAAAAAAAAAAAuSMAAAAAAAC5IwAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgozIwAAAAAAAGMjAAAAAAAAAAAAADMjAAAAAAAAMyMAAAAAAAAwAAAAICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKDyMAAAAAAAA/IwAAAAAAAAAAAAAPIwAAAAAAAA8jAAAAAAAAMAAAACAgICAgICAgICAgICAgICAgICAgc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsiCvUiAAAAAAAAJSMAAAAAAAAAAAAA9SIAAAAAAAD1IgAAAAAAADAAAAAgICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgrQIgAAAAAAAAAjAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAESQAAAAAAAARJAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					593,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAHMAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgAAAAAAAABSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					594,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAHwAAAAAAAAAfAAAAAAAAAAJAAAAQ2FsY1BvcHVw",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					595,
+					1,
+					"insert",
+					{
+						"characters": "Shottext"
+					},
+					"CAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAAB+AAAAAAAAAAAAAAB+AAAAAAAAAH8AAAAAAAAAAAAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					596,
+					1,
+					"insert",
+					{
+						"characters": "Up"
+					},
+					"AgAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					597,
+					2,
+					"left_delete",
+					null,
+					"AgAAAIUAAAAAAAAAhQAAAAAAAAABAAAAcIQAAAAAAAAAhAAAAAAAAAABAAAAVQ",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					598,
+					1,
+					"insert",
+					{
+						"characters": "Popup"
+					},
+					"BQAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAAAAAAAAACEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					603,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJsAAAAAAAAAmwAAAAAAAAAJAAAAQ2FsY1BvcHVw",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					604,
+					1,
+					"paste",
+					null,
+					"AQAAAJsAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					619,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACYpAAAAAAAAJykAAAAAAAAAAAAAJykAAAAAAAArKQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJikAAAAAAAAmKQAAAAAAAAAAAAAAwFZA"
+				],
+				[
+					620,
+					1,
+					"paste",
+					null,
+					"AQAAACspAAAAAAAAOCkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKykAAAAAAAArKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					622,
+					1,
+					"insert",
+					{
+						"characters": "z"
+					},
+					"AQAAACspAAAAAAAALCkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKykAAAAAAAArKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					623,
+					1,
+					"left_delete",
+					null,
+					"AQAAACspAAAAAAAAKykAAAAAAAABAAAAeg",
+					"AQAAAAAAAAABAAAALCkAAAAAAAAsKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					624,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAACspAAAAAAAALCkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKykAAAAAAAArKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					626,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAADkpAAAAAAAAOikAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOSkAAAAAAAA5KQAAAAAAAP///////+9/"
+				],
+				[
+					628,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADkpAAAAAAAAOikAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOSkAAAAAAAA5KQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					629,
+					1,
+					"insert",
+					{
+						"characters": "v-model="
+					},
+					"CAAAADopAAAAAAAAOykAAAAAAAAAAAAAOykAAAAAAAA8KQAAAAAAAAAAAAA8KQAAAAAAAD0pAAAAAAAAAAAAAD0pAAAAAAAAPikAAAAAAAAAAAAAPikAAAAAAAA/KQAAAAAAAAAAAAA/KQAAAAAAAEApAAAAAAAAAAAAAEApAAAAAAAAQSkAAAAAAAAAAAAAQSkAAAAAAABCKQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOikAAAAAAAA6KQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					630,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAEIpAAAAAAAARCkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQikAAAAAAABCKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					631,
+					1,
+					"insert",
+					{
+						"characters": "shorttext"
+					},
+					"CQAAAEMpAAAAAAAARCkAAAAAAAAAAAAARCkAAAAAAABFKQAAAAAAAAAAAABFKQAAAAAAAEYpAAAAAAAAAAAAAEYpAAAAAAAARykAAAAAAAAAAAAARykAAAAAAABIKQAAAAAAAAAAAABIKQAAAAAAAEkpAAAAAAAAAAAAAEkpAAAAAAAASikAAAAAAAAAAAAASikAAAAAAABLKQAAAAAAAAAAAABLKQAAAAAAAEwpAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQykAAAAAAABDKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					632,
+					1,
+					"insert",
+					{
+						"characters": "Dialog"
+					},
+					"BgAAAEwpAAAAAAAATSkAAAAAAAAAAAAATSkAAAAAAABOKQAAAAAAAAAAAABOKQAAAAAAAE8pAAAAAAAAAAAAAE8pAAAAAAAAUCkAAAAAAAAAAAAAUCkAAAAAAABRKQAAAAAAAAAAAABRKQAAAAAAAFIpAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATCkAAAAAAABMKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					637,
+					1,
+					"reindent",
+					null,
+					"AQAAAMsIAAAAAAAAzQgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywgAAAAAAADLCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					638,
+					1,
+					"insert",
+					{
+						"characters": " const"
+					},
+					"BgAAAM0IAAAAAAAAzggAAAAAAAAAAAAAzggAAAAAAADPCAAAAAAAAAAAAADPCAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA0QgAAAAAAAAAAAAA0QgAAAAAAADSCAAAAAAAAAAAAADSCAAAAAAAANMIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQgAAAAAAADNCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					639,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANMIAAAAAAAA1AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wgAAAAAAADTCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					640,
+					1,
+					"paste",
+					null,
+					"AQAAANQIAAAAAAAA4wgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AgAAAAAAADUCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					641,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAOMIAAAAAAAA5AgAAAAAAAAAAAAA5AgAAAAAAADlCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wgAAAAAAADjCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					642,
+					1,
+					"insert",
+					{
+						"characters": " ref"
+					},
+					"BAAAAOUIAAAAAAAA5ggAAAAAAAAAAAAA5ggAAAAAAADnCAAAAAAAAAAAAADnCAAAAAAAAOgIAAAAAAAAAAAAAOgIAAAAAAAA6QgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QgAAAAAAADlCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					643,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAOkIAAAAAAAA6wgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QgAAAAAAADpCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					644,
+					1,
+					"insert",
+					{
+						"characters": "false"
+					},
+					"BQAAAOoIAAAAAAAA6wgAAAAAAAAAAAAA6wgAAAAAAADsCAAAAAAAAAAAAADsCAAAAAAAAO0IAAAAAAAAAAAAAO0IAAAAAAAA7ggAAAAAAAAAAAAA7ggAAAAAAADvCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6ggAAAAAAADqCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					650,
+					1,
+					"insert",
+					{
+						"characters": " /"
+					},
+					"AgAAAHgpAAAAAAAAeSkAAAAAAAAAAAAAeSkAAAAAAAB6KQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeCkAAAAAAAB4KQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					663,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AwAAAFQpAAAAAAAAVSkAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAADAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/ngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/VCkAAAAAAABUKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					672,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAH4pAAAAAAAAgikAAAAAAAAAAAAAUikAAAAAAABXKQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXSkAAAAAAABdKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					683,
+					1,
+					"cut",
+					null,
+					"AQAAAE4pAAAAAAAATikAAAAAAAA6AAAAICAgIDwhLS0gPFNob3J0dGV4dFBvcHVwIHYtbW9kZWw9InNob3J0dGV4dERpYWxvZyIgLz4gLS0+Cg",
+					"AQAAAAAAAAABAAAAZikAAAAAAABmKQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					687,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAL0dAAAAAAAAvh0AAAAAAAAAAAAAvR0AAAAAAADDHQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxR0AAAAAAADFHQAAAAAAAAAAAAAAAExA"
+				],
+				[
+					688,
+					1,
+					"paste",
+					null,
+					"AQAAAL0dAAAAAAAA9x0AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwx0AAAAAAADDHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					691,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAMEdAAAAAAAAwR0AAAAAAAAFAAAAPCEtLSDtHQAAAAAAAO0dAAAAAAAABAAAACAtLT4",
+					"AQAAAAAAAAABAAAAxR0AAAAAAADFHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					692,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AgAAAMEdAAAAAAAAwx0AAAAAAAAAAAAA8B0AAAAAAADwHQAAAAAAAAYAAAAgICAgICA",
+					"AQAAAAAAAAABAAAAwR0AAAAAAADBHQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					695,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAO8dAAAAAAAA7x0AAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA8B0AAAAAAADwHQAAAAAAAAAAAAAAAEVA"
+				],
+				[
+					705,
+					2,
+					"left_delete",
+					null,
+					"AgAAAE4jAAAAAAAATiMAAAAAAACGAgAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIHN0eWxlPSJtYXJnaW4tYm90dG9tOiA1cHg7IgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJ3YXJuaW5nIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iaXRlbS5kZXNjcmlwdGlvbiA9ICdVbmlkYWQgVG95b3RhIGhpYWNlIDExIHBlcnNvbmFzLCBhL2MsIG1hbGV0ZXJvLCBjYW5hc3RhLCBhc2llbnRvcyByZWNsaW5hYmxlcywgV2lGaSciCiAgICAgICAgICAgICAgICA+VE9ZPC9xLWJ0bj4KICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJ3YXJuaW5nIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iaXRlbS5kZXNjcmlwdGlvbiA9ICdVbmlkYWQgbWF4dXMgMTQgcGVyc29uYXMgMTEgcGVyc29uYXMsIGEvYywgbWFsZXRlcm8sIHVuaWRhZGVzIGRlIGNhcmdhIHVzYiwgbWFsZXRlcm8sIGFzaWVudG9zIHJlY2xpbmFibGVzLCBXaUZpJyIKICAgICAgICAgICAgICAgID5NQVg8L3EtYnRuPk0jAAAAAAAATSMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA1CUAAAAAAABOIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					711,
+					1,
+					"paste",
+					null,
+					"AQAAAJkiAAAAAAAAuiIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuCIAAAAAAAC4IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					714,
+					1,
+					"insert",
+					{
+						"characters": "\t\t"
+					},
+					"AgAAAKkiAAAAAAAAqyIAAAAAAAAAAAAAqyIAAAAAAACtIgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqSIAAAAAAACpIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					719,
+					1,
+					"insert",
+					{
+						"characters": "text"
+					},
+					"BQAAALMiAAAAAAAAtCIAAAAAAAAAAAAAtCIAAAAAAAC0IgAAAAAAAAkAAABjYWxjdWxhdGW0IgAAAAAAALUiAAAAAAAAAAAAALUiAAAAAAAAtiIAAAAAAAAAAAAAtiIAAAAAAAC3IgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsyIAAAAAAAC8IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					724,
+					1,
+					"left_delete",
+					null,
+					"AQAAANUiAAAAAAAA1SIAAAAAAAB6AAAAaXRlbS5kZXNjcmlwdGlvbiA9ICdVbmlkYWQgIGphYyBzdW5yYXkgcGFyYSAxNCBwZXJzb25hcywgYS9jLCB1bmlkYWRlcyBkZSBjYXJnYSB1c2IsIG1hbGV0ZXJvLCBhc2llbnRvcyByZWNsaW5hYmxlcywgV2lGaSc",
+					"AQAAAAAAAAABAAAA1SIAAAAAAABPIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					725,
+					1,
+					"insert",
+					{
+						"characters": "shot"
+					},
+					"BAAAANUiAAAAAAAA1iIAAAAAAAAAAAAA1iIAAAAAAADXIgAAAAAAAAAAAADXIgAAAAAAANgiAAAAAAAAAAAAANgiAAAAAAAA2SIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1SIAAAAAAADVIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					727,
+					1,
+					"insert_completion",
+					{
+						"completion": "shorttextDialog",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "shorttextDialog"
+					},
+					"AgAAANUiAAAAAAAA1SIAAAAAAAAEAAAAc2hvdNUiAAAAAAAA5CIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2SIAAAAAAADZIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					728,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAOQiAAAAAAAA5SIAAAAAAAAAAAAA5SIAAAAAAADmIgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5CIAAAAAAADkIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					729,
+					1,
+					"insert",
+					{
+						"characters": " true"
+					},
+					"BQAAAOYiAAAAAAAA5yIAAAAAAAAAAAAA5yIAAAAAAADoIgAAAAAAAAAAAADoIgAAAAAAAOkiAAAAAAAAAAAAAOkiAAAAAAAA6iIAAAAAAAAAAAAA6iIAAAAAAADrIgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5iIAAAAAAADmIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					737,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAP4iAAAAAAAA/iIAAAAAAAADAAAASkFD",
+					"AQAAAAAAAAABAAAAASMAAAAAAAABIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					739,
+					1,
+					"left_delete",
+					null,
+					"AQAAAP4iAAAAAAAA/iIAAAAAAAAIAAAAPC9xLWJ0bj4",
+					"AQAAAAAAAAABAAAA/iIAAAAAAAAGIwAAAAAAAP///////+9/"
+				],
+				[
+					741,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAP0iAAAAAAAA/iIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/SIAAAAAAAD9IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					748,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAALMiAAAAAAAAsyIAAAAAAAAEAAAAdGV4dA",
+					"AQAAAAAAAAABAAAAtyIAAAAAAAC3IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					749,
+					1,
+					"insert",
+					{
+						"characters": "noe"
+					},
+					"AwAAALMiAAAAAAAAtCIAAAAAAAAAAAAAtCIAAAAAAAC1IgAAAAAAAAAAAAC1IgAAAAAAALYiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsyIAAAAAAACzIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					750,
+					1,
+					"left_delete",
+					null,
+					"AQAAALUiAAAAAAAAtSIAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAtiIAAAAAAAC2IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					751,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAALUiAAAAAAAAtiIAAAAAAAAAAAAAtiIAAAAAAAC3IgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtSIAAAAAAAC1IgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					757,
+					1,
+					"insert",
+					{
+						"characters": "openShortT"
+					},
+					"CgAAANUiAAAAAAAA1iIAAAAAAAAAAAAA1iIAAAAAAADXIgAAAAAAAAAAAADXIgAAAAAAANgiAAAAAAAAAAAAANgiAAAAAAAA2SIAAAAAAAAAAAAA2SIAAAAAAADaIgAAAAAAAAAAAADaIgAAAAAAANsiAAAAAAAAAAAAANsiAAAAAAAA3CIAAAAAAAAAAAAA3CIAAAAAAADdIgAAAAAAAAAAAADdIgAAAAAAAN4iAAAAAAAAAAAAAN4iAAAAAAAA3yIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1SIAAAAAAADVIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					758,
+					1,
+					"insert",
+					{
+						"characters": "ext"
+					},
+					"AwAAAN8iAAAAAAAA4CIAAAAAAAAAAAAA4CIAAAAAAADhIgAAAAAAAAAAAADhIgAAAAAAAOIiAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3yIAAAAAAADfIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					759,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAANUiAAAAAAAA1SIAAAAAAAANAAAAb3BlblNob3J0VGV4dA",
+					"AQAAAAAAAAABAAAA4iIAAAAAAADiIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					760,
+					1,
+					"insert",
+					{
+						"characters": "openShortText"
+					},
+					"DQAAANUiAAAAAAAA1iIAAAAAAAAAAAAA1iIAAAAAAADXIgAAAAAAAAAAAADXIgAAAAAAANgiAAAAAAAAAAAAANgiAAAAAAAA2SIAAAAAAAAAAAAA2SIAAAAAAADaIgAAAAAAAAAAAADaIgAAAAAAANsiAAAAAAAAAAAAANsiAAAAAAAA3CIAAAAAAAAAAAAA3CIAAAAAAADdIgAAAAAAAAAAAADdIgAAAAAAAN4iAAAAAAAAAAAAAN4iAAAAAAAA3yIAAAAAAAAAAAAA3yIAAAAAAADgIgAAAAAAAAAAAADgIgAAAAAAAOEiAAAAAAAAAAAAAOEiAAAAAAAA4iIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1SIAAAAAAADVIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					761,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAANUiAAAAAAAA1SIAAAAAAAANAAAAb3BlblNob3J0VGV4dA",
+					"AQAAAAAAAAABAAAA4iIAAAAAAADiIgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					765,
+					1,
+					"insert",
+					{
+						"characters": "\nconst"
+					},
+					"BwAAAPIIAAAAAAAA8wgAAAAAAAAAAAAA8wgAAAAAAAD2CAAAAAAAAAAAAAD2CAAAAAAAAPcIAAAAAAAAAAAAAPcIAAAAAAAA+AgAAAAAAAAAAAAA+AgAAAAAAAD5CAAAAAAAAAAAAAD5CAAAAAAAAPoIAAAAAAAAAAAAAPoIAAAAAAAA+wgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8ggAAAAAAADyCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					766,
+					1,
+					"insert",
+					{
+						"characters": " currentItemI"
+					},
+					"DQAAAPsIAAAAAAAA/AgAAAAAAAAAAAAA/AgAAAAAAAD9CAAAAAAAAAAAAAD9CAAAAAAAAP4IAAAAAAAAAAAAAP4IAAAAAAAA/wgAAAAAAAAAAAAA/wgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAEJAAAAAAAAAAAAAAEJAAAAAAAAAgkAAAAAAAAAAAAAAgkAAAAAAAADCQAAAAAAAAAAAAADCQAAAAAAAAQJAAAAAAAAAAAAAAQJAAAAAAAABQkAAAAAAAAAAAAABQkAAAAAAAAGCQAAAAAAAAAAAAAGCQAAAAAAAAcJAAAAAAAAAAAAAAcJAAAAAAAACAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wgAAAAAAAD7CAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					767,
+					1,
+					"insert",
+					{
+						"characters": "ndex"
+					},
+					"BAAAAAgJAAAAAAAACQkAAAAAAAAAAAAACQkAAAAAAAAKCQAAAAAAAAAAAAAKCQAAAAAAAAsJAAAAAAAAAAAAAAsJAAAAAAAADAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAkAAAAAAAAICQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					768,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAAwJAAAAAAAADQkAAAAAAAAAAAAADQkAAAAAAAAOCQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAkAAAAAAAAMCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					769,
+					1,
+					"insert",
+					{
+						"characters": " ref/0"
+					},
+					"BgAAAA4JAAAAAAAADwkAAAAAAAAAAAAADwkAAAAAAAAQCQAAAAAAAAAAAAAQCQAAAAAAABEJAAAAAAAAAAAAABEJAAAAAAAAEgkAAAAAAAAAAAAAEgkAAAAAAAATCQAAAAAAAAAAAAATCQAAAAAAABQJAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgkAAAAAAAAOCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					770,
+					2,
+					"left_delete",
+					null,
+					"AgAAABMJAAAAAAAAEwkAAAAAAAABAAAAMBIJAAAAAAAAEgkAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAFAkAAAAAAAAUCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					771,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAABIJAAAAAAAAFAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgkAAAAAAAASCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					772,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAABMJAAAAAAAAFAkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwkAAAAAAAATCQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					789,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAA4jAAAAAAAADyMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADiMAAAAAAAAOIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					790,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA8jAAAAAAAAECMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADyMAAAAAAAAPIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					791,
+					1,
+					"paste",
+					null,
+					"AQAAABAjAAAAAAAAICMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAECMAAAAAAAAQIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					792,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAACAjAAAAAAAAISMAAAAAAAAAAAAAISMAAAAAAAAiIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAICMAAAAAAAAgIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					793,
+					1,
+					"insert",
+					{
+						"characters": " i"
+					},
+					"AgAAACIjAAAAAAAAIyMAAAAAAAAAAAAAIyMAAAAAAAAkIwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIiMAAAAAAAAiIwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					805,
+					1,
+					"insert",
+					{
+						"characters": "@on"
+					},
+					"AwAAABAeAAAAAAAAER4AAAAAAAAAAAAAER4AAAAAAAASHgAAAAAAAAAAAAASHgAAAAAAABMeAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEB4AAAAAAAAQHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					806,
+					1,
+					"insert_completion",
+					{
+						"completion": "onSave",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "onSave"
+					},
+					"AgAAABEeAAAAAAAAER4AAAAAAAACAAAAb24RHgAAAAAAABceAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEx4AAAAAAAATHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					807,
+					1,
+					"insert",
+					{
+						"characters": "=\"\""
+					},
+					"AwAAABceAAAAAAAAGB4AAAAAAAAAAAAAGB4AAAAAAAAZHgAAAAAAAAAAAAAZHgAAAAAAABoeAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFx4AAAAAAAAXHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					809,
+					1,
+					"insert",
+					{
+						"characters": "ite"
+					},
+					"AwAAABkeAAAAAAAAGh4AAAAAAAAAAAAAGh4AAAAAAAAbHgAAAAAAAAAAAAAbHgAAAAAAABweAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGR4AAAAAAAAZHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					811,
+					1,
+					"insert_completion",
+					{
+						"completion": "items",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "items"
+					},
+					"AgAAABkeAAAAAAAAGR4AAAAAAAADAAAAaXRlGR4AAAAAAAAeHgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHB4AAAAAAAAcHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					812,
+					1,
+					"insert",
+					{
+						"characters": "[]"
+					},
+					"AgAAAB4eAAAAAAAAHx4AAAAAAAAAAAAAHx4AAAAAAAAgHgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHh4AAAAAAAAeHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					814,
+					1,
+					"insert",
+					{
+						"characters": "curr"
+					},
+					"BAAAAB8eAAAAAAAAIB4AAAAAAAAAAAAAIB4AAAAAAAAhHgAAAAAAAAAAAAAhHgAAAAAAACIeAAAAAAAAAAAAACIeAAAAAAAAIx4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHx4AAAAAAAAfHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					815,
+					1,
+					"insert_completion",
+					{
+						"completion": "currentItemIndex",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "currentItemIndex"
+					},
+					"AgAAAB8eAAAAAAAAHx4AAAAAAAAEAAAAY3Vych8eAAAAAAAALx4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIx4AAAAAAAAjHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					817,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAADAeAAAAAAAAMR4AAAAAAAAAAAAAMR4AAAAAAAAyHgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMB4AAAAAAAAwHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					818,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADIeAAAAAAAAMx4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMh4AAAAAAAAyHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					820,
+					1,
+					"insert",
+					{
+						"characters": "txt"
+					},
+					"AwAAABkeAAAAAAAAGh4AAAAAAAAAAAAAGh4AAAAAAAAbHgAAAAAAAAAAAAAbHgAAAAAAABweAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGR4AAAAAAAAZHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					821,
+					1,
+					"insert",
+					{
+						"characters": " =>"
+					},
+					"AwAAABweAAAAAAAAHR4AAAAAAAAAAAAAHR4AAAAAAAAeHgAAAAAAAAAAAAAeHgAAAAAAAB8eAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHB4AAAAAAAAcHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					822,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB8eAAAAAAAAIB4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHx4AAAAAAAAfHgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					825,
+					1,
+					"insert",
+					{
+						"characters": "txt"
+					},
+					"AwAAADoeAAAAAAAAOx4AAAAAAAAAAAAAOx4AAAAAAAA8HgAAAAAAAAAAAAA8HgAAAAAAAD0eAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOh4AAAAAAAA6HgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					831,
+					1,
+					"insert",
+					{
+						"characters": ".des"
+					},
+					"BAAAADceAAAAAAAAOB4AAAAAAAAAAAAAOB4AAAAAAAA5HgAAAAAAAAAAAAA5HgAAAAAAADoeAAAAAAAAAAAAADoeAAAAAAAAOx4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANx4AAAAAAAA3HgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					832,
+					1,
+					"insert_completion",
+					{
+						"completion": "description",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "description"
+					},
+					"AgAAADgeAAAAAAAAOB4AAAAAAAADAAAAZGVzOB4AAAAAAABDHgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOx4AAAAAAAA7HgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					916,
+					1,
+					"cut",
+					null,
+					"AQAAAJ4CAAAAAAAAngIAAAAAAADfAAAAVE9ETyBNT1ZJTUlFTlRPIEVYVFJBIEEgTE8gQ09USVpBRE8gVElFTkUgQ09TVE8gQURJQ0lPTkFMLiBFTCBTRVJWSUNJTyBJTkNMVVlFIElOSUNBTUVOVEUgTE9TIEtJTE9NRVRST1MgRVNUQUJMRUNJRE9TIEVOIExBIFBSRVNFTlRFIENPVElaQUNJT04gQ1VBTFFVSUVSIFJFQ09SSURPIEFESUNJT05BTCBPIEVYVEVOQ0lPTiBERUwgVFJBWUVDVE8gVEVORFJBIFVOIENPU1RPIEFESUNJT05BTA",
+					"AQAAAAAAAAABAAAAngIAAAAAAAB9AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					936,
+					1,
+					"insert",
+					{
+						"characters": "quoteSto"
+					},
+					"EgAAANQsAAAAAAAA1SwAAAAAAAAAAAAA1SwAAAAAAADVLAAAAAAAAA0AAABvYnNlcnZhY2lvbmVziywAAAAAAACMLAAAAAAAAAAAAACMLAAAAAAAAIwsAAAAAAAADQAAAG9ic2VydmFjaW9uZXPJLAAAAAAAAMosAAAAAAAAAAAAAIwsAAAAAAAAjSwAAAAAAAAAAAAAyywAAAAAAADMLAAAAAAAAAAAAACNLAAAAAAAAI4sAAAAAAAAAAAAAM0sAAAAAAAAziwAAAAAAAAAAAAAjiwAAAAAAACPLAAAAAAAAAAAAADPLAAAAAAAANAsAAAAAAAAAAAAAI8sAAAAAAAAkCwAAAAAAAAAAAAA0SwAAAAAAADSLAAAAAAAAAAAAACQLAAAAAAAAJEsAAAAAAAAAAAAANMsAAAAAAAA1CwAAAAAAAAAAAAAkSwAAAAAAACSLAAAAAAAAAAAAADVLAAAAAAAANYsAAAAAAAAAAAAAJIsAAAAAAAAkywAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAiywAAAAAAACYLAAAAAAAAAAAAAAAAPC/1CwAAAAAAADhLAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					937,
+					1,
+					"insert",
+					{
+						"characters": "re.las"
+					},
+					"DAAAANcsAAAAAAAA2CwAAAAAAAAAAAAAkywAAAAAAACULAAAAAAAAAAAAADZLAAAAAAAANosAAAAAAAAAAAAAJQsAAAAAAAAlSwAAAAAAAAAAAAA2ywAAAAAAADcLAAAAAAAAAAAAACVLAAAAAAAAJYsAAAAAAAAAAAAAN0sAAAAAAAA3iwAAAAAAAAAAAAAliwAAAAAAACXLAAAAAAAAAAAAADfLAAAAAAAAOAsAAAAAAAAAAAAAJcsAAAAAAAAmCwAAAAAAAAAAAAA4SwAAAAAAADiLAAAAAAAAAAAAACYLAAAAAAAAJksAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAkywAAAAAAACTLAAAAAAAAAAAAAAAAPC/1ywAAAAAAADXLAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					938,
+					1,
+					"insert",
+					{
+						"characters": "tmsg"
+					},
+					"CAAAAOMsAAAAAAAA5CwAAAAAAAAAAAAAmSwAAAAAAACaLAAAAAAAAAAAAADlLAAAAAAAAOYsAAAAAAAAAAAAAJosAAAAAAAAmywAAAAAAAAAAAAA5ywAAAAAAADoLAAAAAAAAAAAAACbLAAAAAAAAJwsAAAAAAAAAAAAAOksAAAAAAAA6iwAAAAAAAAAAAAAnCwAAAAAAACdLAAAAAAAAAAAAAA",
+					"AQAAAAAAAAACAAAAmSwAAAAAAACZLAAAAAAAAAAAAAAAAPC/4ywAAAAAAADjLAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/stores/index.js",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAANABAAAAAAAA0wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AEAAAAAAAD0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPcBAAAAAAAA+AEAAAAAAAAAAAAA+AEAAAAAAAD6AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wEAAAAAAAD3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"",
+					null,
+					"AQAAAPoBAAAAAAAAPQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gEAAAAAAAD6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"",
+					null,
+					"AQAAAJYAAAAAAAAA9gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAFIAAAAAAAAAVQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAMHBA"
+				],
+				[
+					16,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAgHFA"
+				],
+				[
+					18,
+					1,
+					"",
+					null,
+					"AQAAAJkAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					25,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AQAAAJkAAAAAAAAAmgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"",
+					null,
+					"AQAAAJkAAAAAAAAA5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					28,
+					2,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AgAAAOQAAAAAAAAA5AAAAAAAAAABAAAACuQAAAAAAAAA5AAAAAAAAABLAAAAaW1wb3J0IHsgY3JlYXRlUGVyc2lzdGVkU3RhdGVQbHVnaW4gfSBmcm9tICdwaW5pYS1wbHVnaW4tcGVyc2lzdGVkc3RhdGUtMicK",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOMAAAAAAAAA4wAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOQAAAAAAAAA5wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAMIBA"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKkCAAAAAAAAqQIAAAAAAABGAQAAICBwaW5pYS51c2UoCiAgcGVyc2lzdGVkU3RhdGUoewogICAgc3RvcmFnZTogewogICAgICBnZXRJdGVtOiBhc3luYyAoa2V5KSA9PiB7CiAgICAgICAgcmV0dXJuIGF3YWl0IGxvY2FsZm9yYWdlLmdldEl0ZW0oa2V5KQogICAgICB9LAogICAgICBzZXRJdGVtOiBhc3luYyAoa2V5LCB2YWx1ZSkgPT4gewogICAgICAgIGF3YWl0IGxvY2FsZm9yYWdlLnNldEl0ZW0oa2V5LCB2YWx1ZSkKICAgICAgfSwKICAgICAgcmVtb3ZlSXRlbTogYXN5bmMgKGtleSkgPT4gewogICAgICAgIGF3YWl0IGxvY2FsZm9yYWdlLnJlbW92ZUl0ZW0oa2V5KQogICAgICB9CiAgICB9CiAgfSkKKQo",
+					"AQAAAAAAAAABAAAAqQIAAAAAAADvAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAKkCAAAAAAAAqgIAAAAAAAAAAAAAqQIAAAAAAACrAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQIAAAAAAACpAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"",
+					null,
+					"AQAAAKsCAAAAAAAAtgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwIAAAAAAACrAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"indent",
+					null,
+					"BgAAAN8CAAAAAAAA4QIAAAAAAAAAAAAA7gIAAAAAAADwAgAAAAAAAAAAAAAqAwAAAAAAACwDAAAAAAAAAAAAAHYDAAAAAAAAeAMAAAAAAAAAAAAAuAMAAAAAAAC6AwAAAAAAAAAAAAC+AwAAAAAAAMADAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wIAAAAAAAC3AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOoDAAAAAAAA6gMAAAAAAAADAAAALy8g",
+					"AQAAAAAAAAABAAAA6AMAAAAAAADoAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					69,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAPQDAAAAAAAA9AMAAAAAAAAPAAAAU29tZVBpbmlhUGx1Z2lu",
+					"AQAAAAAAAAABAAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "persis"
+					},
+					"BgAAAPQDAAAAAAAA9QMAAAAAAAAAAAAA9QMAAAAAAAD2AwAAAAAAAAAAAAD2AwAAAAAAAPcDAAAAAAAAAAAAAPcDAAAAAAAA+AMAAAAAAAAAAAAA+AMAAAAAAAD5AwAAAAAAAAAAAAD5AwAAAAAAAPoDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AMAAAAAAAD0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert_completion",
+					{
+						"completion": "persistedState",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "persistedState"
+					},
+					"AgAAAPQDAAAAAAAA9AMAAAAAAAAGAAAAcGVyc2lz9AMAAAAAAAACBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gMAAAAAAAD6AwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "import { defineStore } from 'pinia'\nimport { ref, computed, watch } from 'vue'\n// import { i18n } from 'vue-i18n';\n\nexport const useQuoteStore = defineStore('quotes', () => {\n\n  const quoteConsecutive = ref(200)\n  const txts = ref([\n    {value:'Unidad  jac sunray para 14 personas, a/c, unidades de carga usb, maletero, asientos reclinables, WiFi'},\n    {value:'Unidad Toyota hiace para 11 personas, a/c, maletero, canasta, asientos reclinables, WiFi'},\n    {value:'Unidad maxus para 11 personas, a/c, maletero, unidades de carga usb, maletero, asientos reclinables, WiFi'},\n  ])\n\n  const lastmsg = ref(\"TODO MOVIMIENTO EXTRA A LO COTIZADO TIENE COSTO ADICIONAL. EL SERVICIO INCLUYE INICAMENTE LOS KILOMETROS ESTABLECIDOS EN LA PRESENTE COTIZACION CUALQUIER RECORIDO ADICIONAL O EXTENCION DEL TRAYECTO TENDRA UN COSTO ADICIONAL\")\n\n  return {\n    quoteConsecutive,\n    txts,\n    lastmsg,\n  }\n},{\n  persist: {\n    enabled:true,\n    strategies: [\n      {\n        storage: localStorage,\n        paths: ['quoteConsecutive','txts','lastmsg'],\n      },\n    ]\n  }\n})\n",
+			"settings":
+			{
+				"buffer_size": 1059,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAIwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/components/CalcPopup.vue",
+			"settings":
+			{
+				"buffer_size": 5500,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "src/components/ShorttextPopup.vue",
+			"settings":
+			{
+				"buffer_size": 1934,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAfBUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					13,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"DQAAAFwAAAAAAAAAXAAAAAAAAAAcAAAAICBjb25zdCBwcmVjaW9LbSA9IHJlZigxMDApClwAAAAAAAAAXAAAAAAAAAAeAAAAICBjb25zdCBkZXZhbHVvTW92aWwgPSByZWYoMCkKXAAAAAAAAABcAAAAAAAAABwAAAAgIGNvbnN0IHBhZ29DaG9mZXIgPSByZWYoMCkKXAAAAAAAAABcAAAAAAAAABsAAAAgIGNvbnN0IG1vbnRvR2lyYSA9IHJlZigwKQpcAAAAAAAAAFwAAAAAAAAAGgAAACAgY29uc3QgdmlhdGljb3MgPSByZWYoMCkKXAAAAAAAAABcAAAAAAAAAB4AAAAgIGNvbnN0IHRpcG9DYW1iaW8gPSByZWYoNTAwKQpcAAAAAAAAAFwAAAAAAAAAGAAAACAgY29uc3QgcGVhamVzID0gcmVmKDApClwAAAAAAAAAXAAAAAAAAAABAAAAClwAAAAAAAAAXAAAAAAAAAAWAAAAICBjb25zdCBrbXMgPSByZWYoMTApClwAAAAAAAAAXAAAAAAAAAAfAAAAICBjb25zdCBkZXRhbGxlVmlhamUgPSByZWYoJycpClwAAAAAAAAAXAAAAAAAAAAhAAAAICBjb25zdCB2aWFqZVZ1ZWx0YSA9IHJlZihmYWxzZSkKXAAAAAAAAABcAAAAAAAAAB0AAAAgIC8vIGNvbnN0IGdpcmEgPSByZWYoZmFsc2UpClwAAAAAAAAAXAAAAAAAAAAaAAAAICBjb25zdCBkaWFzR2lyYSA9IHJlZigwKQo",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					12,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"DAAAAFwAAAAAAAAAXAAAAAAAAAAYAAAAICBjb25zdCBpdmEgPSByZWYodHJ1ZSkKXAAAAAAAAABcAAAAAAAAACUAAAAgIGNvbnN0IHBvcmNlbnRhamVEZXNjdWVudG8gPSByZWYoMCkKXAAAAAAAAABcAAAAAAAAAAEAAAAKXAAAAAAAAABcAAAAAAAAAEgAAAAgIGNvbnN0IHN1YnRvdGFsR2lyYSA9IGNvbXB1dGVkKCgpID0+IG1vbnRvR2lyYS52YWx1ZSAqIGRpYXNHaXJhLnZhbHVlKQpcAAAAAAAAAFwAAAAAAAAAZAAAACAgY29uc3Qgc3VidG90YWxWaWFqZSA9IGNvbXB1dGVkKCgpID0+IHByZWNpb0ttLnZhbHVlICoga21zLnZhbHVlICogKHZpYWplVnVlbHRhLnZhbHVlID8gMS43NSA6IDEpKQpcAAAAAAAAAFwAAAAAAAAAbgAAACAgY29uc3Qgc3VidG90YWxPdHJvcyA9IGNvbXB1dGVkKCgpID0+IHBhZ29DaG9mZXIudmFsdWUgKyB2aWF0aWNvcy52YWx1ZSArIHBlYWplcy52YWx1ZSArIGRldmFsdW9Nb3ZpbC52YWx1ZSkKXAAAAAAAAABcAAAAAAAAAGIAAAAgIGNvbnN0IHN1YnRvdGFsID0gY29tcHV0ZWQoKCkgPT4gc3VidG90YWxHaXJhLnZhbHVlICsgc3VidG90YWxWaWFqZS52YWx1ZSArIHN1YnRvdGFsT3Ryb3MudmFsdWUpClwAAAAAAAAAXAAAAAAAAABpAAAAICAvLyBjb25zdCBzdWJ0b3RhbEl2YSA9IGNvbXB1dGVkKCgpID0+IHBhcnNlRmxvYXQoKHN1YnRvdGFsLnZhbHVlICogKGl2YS52YWx1ZSA/IC4xMyA6IDApKS50b0ZpeGVkKDIpKSkKXAAAAAAAAABcAAAAAAAAAIUAAAAgIC8vIGNvbnN0IGRlc2N1ZW50byA9IGNvbXB1dGVkKCgpID0+IHBhcnNlRmxvYXQoKChzdWJ0b3RhbC52YWx1ZSArIHN1YnRvdGFsSXZhLnZhbHVlKSAqIHBvcmNlbnRhamVEZXNjdWVudG8udmFsdWUvMTAwKS50b0ZpeGVkKDIpKSkKXAAAAAAAAABcAAAAAAAAAFgAAAAgIC8vIGNvbnN0IHRvdGFsID0gY29tcHV0ZWQoKCkgPT4gc3VidG90YWwudmFsdWUgKyBzdWJ0b3RhbEl2YS52YWx1ZSAtIGRlc2N1ZW50by52YWx1ZSkKXAAAAAAAAABcAAAAAAAAAEUAAAAgIC8vIGNvbnN0IHRvdGFsVXNkID0gY29tcHV0ZWQoKCkgPT4gdG90YWwudmFsdWUgLyB0aXBvQ2FtYmlvLnZhbHVlKQpcAAAAAAAAAFwAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					3,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AwAAAEAAAAAAAAAAQAAAAAAAAAAXAAAAICBmdW5jdGlvbiBvblN1Ym1pdCgpewpAAAAAAAAAAEAAAAAAAAAABAAAACAgfQpAAAAAAAAAAEAAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQAAAAAAAAABCAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAGEAAAAAAAAAYQAAAAAAAAABAAAACkAAAAAAAAAAQAAAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAACxA"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIYAAAAAAAAAhgAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAQGpA"
+				],
+				[
+					21,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAGIAAAAAAAAAZQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAoHBA"
+				],
+				[
+					23,
+					3,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AwAAANQAAAAAAAAA1AAAAAAAAAApAAAAICAgICAgLy8gc3VidG90YWxJdmE6IHN1YnRvdGFsSXZhLnZhbHVlLArUAAAAAAAAANQAAAAAAAAAJQAAACAgICAgIC8vIGRlc2N1ZW50bzogZGVzY3VlbnRvLnZhbHVlLArUAAAAAAAAANQAAAAAAAAAIwAAACAgICAgIC8vIHN1YnRvdGFsOiBzdWJ0b3RhbC52YWx1ZSwK",
+					"AQAAAAAAAAABAAAA/AAAAAAAAAD8AAAAAAAAAAAAAAAA8HFA"
+				],
+				[
+					26,
+					3,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AwAAAN8AAAAAAAAA3wAAAAAAAAAUAAAAICAvLyBkZWZpbmVFeHBvc2UoewrfAAAAAAAAAN8AAAAAAAAADQAAACAgLy8gICBvcGVuLArfAAAAAAAAAN8AAAAAAAAACAAAACAgLy8gfSkK",
+					"AQAAAAAAAAABAAAA4wAAAAAAAADjAAAAAAAAAAAAAAAAADxA"
+				],
+				[
+					33,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAIQBAAAAAAAAhAEAAAAAAAAKAAAAQ290aXphY2lvbg",
+					"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "Textos"
+					},
+					"BgAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAACGAQAAAAAAAIcBAAAAAAAAAAAAAIcBAAAAAAAAiAEAAAAAAAAAAAAAiAEAAAAAAACJAQAAAAAAAAAAAACJAQAAAAAAAIoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					10,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"CgAAAHgCAAAAAAAAeAIAAAAAAAAeAAAAICAgICAgICAgICAgICAgIDxwPlBhc28gMTwvcD4KeAIAAAAAAAB4AgAAAAAAADIAAAAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icS1jb2wtZ3V0dGVyLXNtIHJvdyI+CngCAAAAAAAAeAIAAAAAAACUAAAAICAgICAgICAgICAgICAgICAgPHEtaW5wdXQgY2xhc3M9ImNvbC02IiB2LW1vZGVsLm51bWJlcj0icHJlY2lvS20iIHR5cGU9Im51bWJlciIgaW5wdXQtY2xhc3M9InRleHQtcmlnaHQiIGxhYmVsPSJQcmVjaW8gcG9yIGttIiBvdXRsaW5lZCByZXF1aXJlZC8+CngCAAAAAAAAeAIAAAAAAACeAAAAICAgICAgICAgICAgICAgICAgPHEtaW5wdXQgY2xhc3M9ImNvbC02IiB2LW1vZGVsLm51bWJlcj0iZGV2YWx1b01vdmlsIiBsYWJlbD0iRGV2YWx1byBkZSBsYSBtb3ZpbCIgb3V0bGluZWQgdHlwZT0ibnVtYmVyIiBpbnB1dC1jbGFzcz0idGV4dC1yaWdodCIgcmVxdWlyZWQvPgp4AgAAAAAAAHgCAAAAAAAAlAAAACAgICAgICAgICAgICAgICAgIDxxLWlucHV0IGNsYXNzPSJjb2wtNiIgdi1tb2RlbC5udW1iZXI9InBhZ29DaG9mZXIiIGxhYmVsPSJQYWdvIENob2ZlciIgb3V0bGluZWQgdHlwZT0ibnVtYmVyIiBpbnB1dC1jbGFzcz0idGV4dC1yaWdodCIgcmVxdWlyZWQvPgp4AgAAAAAAAHgCAAAAAAAAkgAAACAgICAgICAgICAgICAgICAgIDxxLWlucHV0IGNsYXNzPSJjb2wtNiIgdi1tb2RlbC5udW1iZXI9Im1vbnRvR2lyYSIgbGFiZWw9Ik1vbnRvIEdpcmEiIG91dGxpbmVkIHR5cGU9Im51bWJlciIgaW5wdXQtY2xhc3M9InRleHQtcmlnaHQiIHJlcXVpcmVkLz4KeAIAAAAAAAB4AgAAAAAAAI8AAAAgICAgICAgICAgICAgICAgICA8cS1pbnB1dCBjbGFzcz0iY29sLTYiIHYtbW9kZWwubnVtYmVyPSJ2aWF0aWNvcyIgbGFiZWw9IlZpYXRpY29zIiBvdXRsaW5lZCB0eXBlPSJudW1iZXIiIGlucHV0LWNsYXNzPSJ0ZXh0LXJpZ2h0IiByZXF1aXJlZC8+CngCAAAAAAAAeAIAAAAAAACXAAAAICAgICAgICAgICAgICAgICAgPHEtaW5wdXQgY2xhc3M9ImNvbC02IiB2LW1vZGVsLm51bWJlcj0idGlwb0NhbWJpbyIgbGFiZWw9IlRpcG8gZGUgY2FtYmlvIiBvdXRsaW5lZCB0eXBlPSJudW1iZXIiIGlucHV0LWNsYXNzPSJ0ZXh0LXJpZ2h0IiByZXF1aXJlZC8+CngCAAAAAAAAeAIAAAAAAACLAAAAICAgICAgICAgICAgICAgICAgPHEtaW5wdXQgY2xhc3M9ImNvbC02IiB2LW1vZGVsLm51bWJlcj0icGVhamVzIiBsYWJlbD0iUGVhamVzIiBvdXRsaW5lZCB0eXBlPSJudW1iZXIiIGlucHV0LWNsYXNzPSJ0ZXh0LXJpZ2h0IiByZXF1aXJlZC8+CngCAAAAAAAAeAIAAAAAAAAXAAAAICAgICAgICAgICAgICAgIDwvZGl2Pgo",
+					"AQAAAAAAAAABAAAAiAIAAAAAAACIAgAAAAAAAAAAAAAAAFxA"
+				],
+				[
+					44,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAHgCAAAAAAAAeQIAAAAAAAAAAAAAeAIAAAAAAACIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAIAAAAAAAB4AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					32,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"IQAAAPwBAAAAAAAA/AEAAAAAAAAqAAAAICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgcS1jb2wtZ3V0dGVyLXNtIj4KTgIAAAAAAABOAgAAAAAAABAAAAAgICAgICAgICAgICAgICAg/AEAAAAAAAD8AQAAAAAAAB4AAAAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTYiPgr8AQAAAAAAAPwBAAAAAAAAFQAAACAgICAgICAgICAgIDxxLWNhcmQ+CvwBAAAAAAAA/AEAAAAAAAAfAAAAICAgICAgICAgICAgICA8cS1jYXJkLXNlY3Rpb24+CvwBAAAAAAAA/AEAAAAAAAABAAAACvwBAAAAAAAA/AEAAAAAAAAgAAAAICAgICAgICAgICAgICA8L3EtY2FyZC1zZWN0aW9uPgr8AQAAAAAAAPwBAAAAAAAAFgAAACAgICAgICAgICAgIDwvcS1jYXJkPgr8AQAAAAAAAPwBAAAAAAAAEQAAACAgICAgICAgICA8L2Rpdj4K/AEAAAAAAAD8AQAAAAAAAB4AAAAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTYiPgr8AQAAAAAAAPwBAAAAAAAAFQAAACAgICAgICAgICAgIDxxLWNhcmQ+CvwBAAAAAAAA/AEAAAAAAAAfAAAAICAgICAgICAgICAgICA8cS1jYXJkLXNlY3Rpb24+CvwBAAAAAAAA/AEAAAAAAAAeAAAAICAgICAgICAgICAgICAgIDxwPlBhc28gMjwvcD4K/AEAAAAAAAD8AQAAAAAAADAAAAAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icS1jb2wtZ3V0dGVyLXktc20iPgr8AQAAAAAAAPwBAAAAAAAAJwAAACAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbHVtbiI+CvwBAAAAAAAA/AEAAAAAAAA8AAAAICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgcm93IHEtY29sLWd1dHRlci14LXNtIj4K/AEAAAAAAAD8AQAAAAAAAHEAAAAgICAgICAgICAgICAgICAgICAgICAgPHEtaW5wdXQgdi1tb2RlbC5udW1iZXI9ImttcyIgY2xhc3M9ImNvbC0zIiBsYWJlbD0iS20ncyIgb3V0bGluZWQgdHlwZT0ibnVtYmVyIiByZXF1aXJlZC8+CvwBAAAAAAAA/AEAAAAAAACBAAAAICAgICAgICAgICAgICAgICAgICAgIDwhLS0gPHEtaW5wdXQgdi1tb2RlbD0iZGV0YWxsZVZpYWplIiBjbGFzcz0iY29sIiBsYWJlbD0iRGV0YWxsZSB2aWFqZSIgb3V0bGluZWQgdHlwZT0idGV4dCIgcmVxdWlyZWQvPiAtLT4K/AEAAAAAAAD8AQAAAAAAABsAAAAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgr8AQAAAAAAAPwBAAAAAAAAQQAAACAgICAgICAgICAgICAgICAgICAgPCEtLSA8cS1jaGVja2JveCBsYWJlbD0iVmlhamUgZGUgaWRhIiAvPiAtLT4K/AEAAAAAAAD8AQAAAAAAAFEAAAAgICAgICAgICAgICAgICAgICAgIDxxLWNoZWNrYm94IHYtbW9kZWw9InZpYWplVnVlbHRhIiBsYWJlbD0iVmlhamUgZGUgdnVlbHRhIiAvPgr8AQAAAAAAAPwBAAAAAAAASAAAACAgICAgICAgICAgICAgICAgICAgPCEtLSA8cS1jaGVja2JveCB2LW1vZGVsPSJnaXJhIiBsYWJlbD0iR2lyYSIgLz4gLS0+CvwBAAAAAAAA/AEAAAAAAABrAAAAICAgICAgICAgICAgICAgICAgICA8cS1pbnB1dCB2LW1vZGVsLm51bWJlcj0iZGlhc0dpcmEiIGxhYmVsPSJEaWFzIGdpcmEiIG91dGxpbmVkIHR5cGU9Im51bWJlciIgcmVxdWlyZWQvPgr8AQAAAAAAAPwBAAAAAAAARgAAACAgICAgICAgICAgICAgICAgICAgPCEtLSA8cS1jaGVja2JveCB2LW1vZGVsPSJpdmEiIGxhYmVsPSJJVkEiIC8+IC0tPgr8AQAAAAAAAPwBAAAAAAAAmgAAACAgICAgICAgICAgICAgICAgICAgPCEtLSA8cS1pbnB1dCB2LW1vZGVsLm51bWJlcj0icG9yY2VudGFqZURlc2N1ZW50byIgbGFiZWw9IkRlc2N1ZW50byAlIiBvdXRsaW5lZCB0eXBlPSJudW1iZXIiIGlucHV0LWNsYXNzPSJ0ZXh0LXJpZ2h0IiByZXF1aXJlZC8+IC0tPgr8AQAAAAAAAPwBAAAAAAAAGQAAACAgICAgICAgICAgICAgICAgIDwvZGl2Pgr8AQAAAAAAAPwBAAAAAAAAFwAAACAgICAgICAgICAgICAgICA8L2Rpdj4K/AEAAAAAAAD8AQAAAAAAACAAAAAgICAgICAgICAgICAgIDwvcS1jYXJkLXNlY3Rpb24+CvwBAAAAAAAA/AEAAAAAAAAWAAAAICAgICAgICAgICAgPC9xLWNhcmQ+CvwBAAAAAAAA/AEAAAAAAAARAAAAICAgICAgICAgIDwvZGl2Pgr8AQAAAAAAAPwBAAAAAAAAHwAAACAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgr8AQAAAAAAAPwBAAAAAAAAFQAAACAgICAgICAgICAgIDxxLWNhcmQ+CvwBAAAAAAAA/AEAAAAAAAAfAAAAICAgICAgICAgICAgICA8cS1jYXJkLXNlY3Rpb24+Cg",
+					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					14,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"DgAAAPwBAAAAAAAA/AEAAAAAAAAvAAAAICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9ImZvbnQtc2l6ZTogMThweDsiPgr8AQAAAAAAAPwBAAAAAAAATwAAACAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc+U3VidG90YWwgVmlhamU6PC9zdHJvbmc+IOKCoXt7c3VidG90YWxWaWFqZX19PC9wPgr8AQAAAAAAAPwBAAAAAAAATQAAACAgICAgICAgICAgICAgICAgIDxwPjxzdHJvbmc+U3VidG90YWwgR2lyYTo8L3N0cm9uZz4g4oKhe3tzdWJ0b3RhbEdpcmF9fTwvcD4K/AEAAAAAAAD8AQAAAAAAAE8AAAAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlN1YnRvdGFsIE90cm9zOjwvc3Ryb25nPiDigqF7e3N1YnRvdGFsT3Ryb3N9fTwvcD4K/AEAAAAAAAD8AQAAAAAAAEQAAAAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPlN1YnRvdGFsOjwvc3Ryb25nPiDigqF7e3N1YnRvdGFsfX08L3A+CvwBAAAAAAAA/AEAAAAAAABIAAAAICAgICAgICAgICAgICAgICAgPCEtLSA8cD48c3Ryb25nPklWQTo8L3N0cm9uZz4ge3tzdWJ0b3RhbEl2YX19PC9wPiAtLT4K/AEAAAAAAAD8AQAAAAAAAEwAAAAgICAgICAgICAgICAgICAgICA8IS0tIDxwPjxzdHJvbmc+RGVzY3VlbnRvOjwvc3Ryb25nPiB7e2Rlc2N1ZW50b319PC9wPiAtLT4K/AEAAAAAAAD8AQAAAAAAAEQAAAAgICAgICAgICAgICAgICAgICA8IS0tIDxwPjxzdHJvbmc+VE9UQUw6PC9zdHJvbmc+IHt7dG90YWx9fTwvcD4gLS0+CvwBAAAAAAAA/AEAAAAAAABLAAAAICAgICAgICAgICAgICAgICAgPCEtLSA8cD48c3Ryb25nPlRPVEFMIFVTRDo8L3N0cm9uZz4ge3t0b3RhbFVzZH19PC9wPiAtLT4K/AEAAAAAAAD8AQAAAAAAABcAAAAgICAgICAgICAgICAgICAgPC9kaXY+CvwBAAAAAAAA/AEAAAAAAAAgAAAAICAgICAgICAgICAgICA8L3EtY2FyZC1zZWN0aW9uPgr8AQAAAAAAAPwBAAAAAAAAFgAAACAgICAgICAgICAgIDwvcS1jYXJkPgr8AQAAAAAAAPwBAAAAAAAAEQAAACAgICAgICAgICA8L2Rpdj4K/AEAAAAAAAD8AQAAAAAAAA8AAAAgICAgICAgIDwvZGl2Pgo",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA/AEAAAAAAAAEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "sadasasd"
+					},
+					"CAAAAAQCAAAAAAAABQIAAAAAAAAAAAAABQIAAAAAAAAGAgAAAAAAAAAAAAAGAgAAAAAAAAcCAAAAAAAAAAAAAAcCAAAAAAAACAIAAAAAAAAAAAAACAIAAAAAAAAJAgAAAAAAAAAAAAAJAgAAAAAAAAoCAAAAAAAAAAAAAAoCAAAAAAAACwIAAAAAAAAAAAAACwIAAAAAAAAMAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAIAAAAAAAAEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AQAAALQAAAAAAAAAtAAAAAAAAAAgAAAAICAgICAgc3VidG90YWw6IHN1YnRvdGFsLnZhbHVlLAo",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAALQAAAAAAAAAtAAAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"left_delete",
+					null,
+					"AQAAALMAAAAAAAAAswAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAALIAAAAAAAAAsgAAAAAAAAABAAAAe7IAAAAAAAAAsgAAAAAAAAABAAAAfQ",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEAAAAAAAAAsQAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAANwBAAAAAAAA3AEAAAAAAAAIAAAAc2FkYXNhc2Q",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"paste",
+					null,
+					"AQAAANwBAAAAAAAAUwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAANQBAAAAAAAA1QEAAAAAAAAAAAAA1AEAAAAAAADcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "table"
+					},
+					"BQAAANwBAAAAAAAA3QEAAAAAAAAAAAAA3QEAAAAAAADeAQAAAAAAAAAAAADeAQAAAAAAAN8BAAAAAAAAAAAAAN8BAAAAAAAA4AEAAAAAAAAAAAAA4AEAAAAAAADhAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert_completion",
+					{
+						"completion": "<table>$0</table>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "table"
+					},
+					"AgAAANwBAAAAAAAA3AEAAAAAAAAFAAAAdGFibGXcAQAAAAAAAOsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QEAAAAAAADhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAOMBAAAAAAAA9wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": "tr"
+					},
+					"AgAAAO4BAAAAAAAA7wEAAAAAAAAAAAAA7wEAAAAAAADwAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gEAAAAAAADuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert_completion",
+					{
+						"completion": "<tr>$0</tr>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "tr"
+					},
+					"AgAAAO4BAAAAAAAA7gEAAAAAAAACAAAAdHLuAQAAAAAAAPcBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAPIBAAAAAAAACgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gEAAAAAAADyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": "td"
+					},
+					"AgAAAP8BAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAABAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wEAAAAAAAD/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert_completion",
+					{
+						"completion": "<td>$0</td>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "td"
+					},
+					"AgAAAP8BAAAAAAAA/wEAAAAAAAACAAAAdGT/AQAAAAAAAAgCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQIAAAAAAAABAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAAMCAAAAAAAAHwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"paste",
+					null,
+					"AQAAABICAAAAAAAAiQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Line.sublime-macro"
+					},
+					"AQAAAL0CAAAAAAAAvQIAAAAAAACAAAAAICAgICAgICA8cS1pbnB1dCB0eXBlPSJ0ZXh0YXJlYSIgY2xhc3M9Im5vLXByaW50IGlubGluZS1ibG9jayIgc3R5bGU9IndpZHRoOiA5MCU7IiB2LW1vZGVsPSJpdGVtLmRlc2NyaXB0aW9uIiBkZW5zZSBvdXRsaW5lZCAvPgo",
+					"AQAAAAAAAAABAAAAzgIAAAAAAADOAgAAAAAAAAAAAAAAwF1A"
+				],
+				[
+					113,
+					1,
+					"left_delete",
+					null,
+					"AQAAADICAAAAAAAAMgIAAAAAAAAJAAAAbm8tcHJpbnQg",
+					"AQAAAAAAAAABAAAAMgIAAAAAAAA7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFQCAAAAAAAAVAIAAAAAAAAaAAAAdi1tb2RlbD0iaXRlbS5kZXNjcmlwdGlvbiJTAgAAAAAAAFMCAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAbgIAAAAAAABUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " val"
+					},
+					"BAAAAFMCAAAAAAAAVAIAAAAAAAAAAAAAVAIAAAAAAABVAgAAAAAAAAAAAABVAgAAAAAAAFYCAAAAAAAAAAAAAFYCAAAAAAAAVwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "ue="
+					},
+					"AwAAAFcCAAAAAAAAWAIAAAAAAAAAAAAAWAIAAAAAAABZAgAAAAAAAAAAAABZAgAAAAAAAFoCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAFoCAAAAAAAAXAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgIAAAAAAABaAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAIECAAAAAAAAggIAAAAAAAAAAAAAgQIAAAAAAACNAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAIAAAAAAACQAgAAAAAAAAAAAAAAQFpA"
+				],
+				[
+					130,
+					1,
+					"insert",
+					{
+						"characters": "td"
+					},
+					"AgAAAI0CAAAAAAAAjgIAAAAAAAAAAAAAjgIAAAAAAACPAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQIAAAAAAACNAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"insert_completion",
+					{
+						"completion": "<td>$0</td>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "td"
+					},
+					"AgAAAI0CAAAAAAAAjQIAAAAAAAACAAAAdGSNAgAAAAAAAJYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwIAAAAAAACPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"auto_indent_tag",
+					null,
+					"AQAAAJECAAAAAAAArQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQIAAAAAAACRAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"paste",
+					null,
+					"AQAAAKACAAAAAAAAxwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAIAAAAAAACgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					140,
+					7,
+					"left_delete",
+					null,
+					"BwAAAK4CAAAAAAAArgIAAAAAAAACAAAAICCsAgAAAAAAAKwCAAAAAAAAAgAAACAgqgIAAAAAAACqAgAAAAAAAAIAAAAgIKgCAAAAAAAAqAIAAAAAAAACAAAAICCmAgAAAAAAAKYCAAAAAAAAAgAAACAgpAIAAAAAAACkAgAAAAAAAAIAAAAgIKICAAAAAAAAogIAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAsAIAAAAAAACwAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEACAAAAAAAAQAIAAAAAAAATAAAAc3R5bGU9IndpZHRoOiA5MCU7Ij8CAAAAAAAAPwIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAUwIAAAAAAABAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": " co"
+					},
+					"AwAAAAICAAAAAAAAAwIAAAAAAAAAAAAAAwIAAAAAAAAEAgAAAAAAAAAAAAAEAgAAAAAAAAUCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgIAAAAAAAACAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert_completion",
+					{
+						"completion": "colspan=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "colspan"
+					},
+					"AgAAAAMCAAAAAAAAAwIAAAAAAAACAAAAY28DAgAAAAAAAA0CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQIAAAAAAAAFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAAAwCAAAAAAAADQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAIAAAAAAAAMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					157,
+					1,
+					"insert",
+					{
+						"characters": " c"
+					},
+					"AgAAAIgCAAAAAAAAiQIAAAAAAAAAAAAAiQIAAAAAAACKAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAIAAAAAAACIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert_completion",
+					{
+						"completion": "colspan=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "colspan"
+					},
+					"AgAAAIkCAAAAAAAAiQIAAAAAAAABAAAAY4kCAAAAAAAAkwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigIAAAAAAACKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					159,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAJICAAAAAAAAkwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgIAAAAAAACSAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJICAAAAAAAAkgIAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAkwIAAAAAAACTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAJICAAAAAAAAkwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgIAAAAAAACSAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"insert",
+					{
+						"characters": "check"
+					},
+					"BgAAAFoDAAAAAAAAWwMAAAAAAAAAAAAAWwMAAAAAAABbAwAAAAAAAAQAAABub3RlWwMAAAAAAABcAwAAAAAAAAAAAABcAwAAAAAAAF0DAAAAAAAAAAAAAF0DAAAAAAAAXgMAAAAAAAAAAAAAXgMAAAAAAABfAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgMAAAAAAABeAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					1,
+					"insert",
+					{
+						"characters": "success"
+					},
+					"CAAAADcDAAAAAAAAOAMAAAAAAAAAAAAAOAMAAAAAAAA4AwAAAAAAAAcAAAB3YXJuaW5nOAMAAAAAAAA5AwAAAAAAAAAAAAA5AwAAAAAAADoDAAAAAAAAAAAAADoDAAAAAAAAOwMAAAAAAAAAAAAAOwMAAAAAAAA8AwAAAAAAAAAAAAA8AwAAAAAAAD0DAAAAAAAAAAAAAD0DAAAAAAAAPgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwMAAAAAAAA+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAADcDAAAAAAAANwMAAAAAAAAHAAAAc3VjY2Vzcw",
+					"AQAAAAAAAAABAAAAPgMAAAAAAAA+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "green"
+					},
+					"BQAAADcDAAAAAAAAOAMAAAAAAAAAAAAAOAMAAAAAAAA5AwAAAAAAAAAAAAA5AwAAAAAAADoDAAAAAAAAAAAAADoDAAAAAAAAOwMAAAAAAAAAAAAAOwMAAAAAAAA8AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwMAAAAAAAA3AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHsDAAAAAAAAewMAAAAAAAAsAAAAc2hvcnR0ZXh0RGlhbG9nID0gdHJ1ZTsgY3VycmVudEl0ZW1JbmRleCA9IGk",
+					"AQAAAAAAAAABAAAAewMAAAAAAACnAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					187,
+					1,
+					"insert",
+					{
+						"characters": "onS"
+					},
+					"AwAAAHsDAAAAAAAAfAMAAAAAAAAAAAAAfAMAAAAAAAB9AwAAAAAAAAAAAAB9AwAAAAAAAH4DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewMAAAAAAAB7AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					188,
+					1,
+					"insert_completion",
+					{
+						"completion": "onSave",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "onSave"
+					},
+					"AgAAAHsDAAAAAAAAewMAAAAAAAADAAAAb25TewMAAAAAAACBAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgMAAAAAAAB+AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					189,
+					1,
+					"insert",
+					{
+						"characters": "()"
+					},
+					"AgAAAIEDAAAAAAAAggMAAAAAAAAAAAAAggMAAAAAAACDAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQMAAAAAAACBAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					194,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4AAAAAAAAAngAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					196,
+					1,
+					"insert",
+					{
+						"characters": "xt"
+					},
+					"AgAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					200,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAALQAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"left_delete",
+					null,
+					"AQAAALQAAAAAAAAAtAAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					202,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAALQAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					203,
+					1,
+					"insert",
+					{
+						"characters": "txt"
+					},
+					"AwAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAIkDAAAAAAAAiwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQMAAAAAAACJAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					212,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAIkDAAAAAAAAiQMAAAAAAAABAAAAIokDAAAAAAAAiQMAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAigMAAAAAAACKAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					215,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAIkDAAAAAAAAiwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQMAAAAAAACJAwAAAAAAAAAAAAAAoG5A"
+				],
+				[
+					220,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAIkDAAAAAAAAiQMAAAAAAAABAAAAIokDAAAAAAAAiQMAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAigMAAAAAAACKAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAIkDAAAAAAAAiwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQMAAAAAAACJAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					1,
+					"insert",
+					{
+						"characters": "asdasdadas"
+					},
+					"CgAAAIoDAAAAAAAAiwMAAAAAAAAAAAAAiwMAAAAAAACMAwAAAAAAAAAAAACMAwAAAAAAAI0DAAAAAAAAAAAAAI0DAAAAAAAAjgMAAAAAAAAAAAAAjgMAAAAAAACPAwAAAAAAAAAAAACPAwAAAAAAAJADAAAAAAAAAAAAAJADAAAAAAAAkQMAAAAAAAAAAAAAkQMAAAAAAACSAwAAAAAAAAAAAACSAwAAAAAAAJMDAAAAAAAAAAAAAJMDAAAAAAAAlAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigMAAAAAAACKAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					227,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAKMAAAAAAAAApAAAAAAAAAAAAAAAowAAAAAAAACnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					228,
+					1,
+					"insert",
+					{
+						"characters": "dia"
+					},
+					"AwAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"insert_completion",
+					{
+						"completion": "dialog",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "dialog"
+					},
+					"AgAAAKcAAAAAAAAApwAAAAAAAAADAAAAZGlhpwAAAAAAAACtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgAAAAAAAACqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					230,
+					1,
+					"insert",
+					{
+						"characters": ".l"
+					},
+					"AgAAAK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQAAAAAAAACtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					2,
+					"left_delete",
+					null,
+					"AgAAAK4AAAAAAAAArgAAAAAAAAABAAAAbK0AAAAAAAAArQAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					232,
+					1,
+					"insert",
+					{
+						"characters": ".va"
+					},
+					"AwAAAK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAACvAAAAAAAAALAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQAAAAAAAACtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"insert_completion",
+					{
+						"completion": "value",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "value"
+					},
+					"AgAAAK4AAAAAAAAArgAAAAAAAAACAAAAdmGuAAAAAAAAALMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					234,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"insert",
+					{
+						"characters": " false"
+					},
+					"BgAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					244,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAGIAAAAAAAAAYgAAAAAAAAADAAAALy8g",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAoG5A"
+				],
+				[
+					251,
+					1,
+					"paste",
+					null,
+					"AQAAAEAAAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					254,
+					1,
+					"paste",
+					null,
+					"AQAAAHAAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					265,
+					1,
+					"insert",
+					{
+						"characters": " v-for="
+					},
+					"BwAAAGICAAAAAAAAYwIAAAAAAAAAAAAAYwIAAAAAAABkAgAAAAAAAAAAAABkAgAAAAAAAGUCAAAAAAAAAAAAAGUCAAAAAAAAZgIAAAAAAAAAAAAAZgIAAAAAAABnAgAAAAAAAAAAAABnAgAAAAAAAGgCAAAAAAAAAAAAAGgCAAAAAAAAaQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgIAAAAAAABiAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					266,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGkCAAAAAAAAawIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQIAAAAAAABpAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"paste",
+					null,
+					"AQAAAGoCAAAAAAAAdAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagIAAAAAAABqAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					268,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAHQCAAAAAAAAdQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAIAAAAAAAB0AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"insert",
+					{
+						"characters": "txts"
+					},
+					"BAAAAGoCAAAAAAAAawIAAAAAAAAAAAAAawIAAAAAAABsAgAAAAAAAAAAAABsAgAAAAAAAG0CAAAAAAAAAAAAAG0CAAAAAAAAbgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagIAAAAAAABqAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"insert",
+					{
+						"characters": " in"
+					},
+					"AwAAAG4CAAAAAAAAbwIAAAAAAAAAAAAAbwIAAAAAAABwAgAAAAAAAAAAAABwAgAAAAAAAHECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgIAAAAAAABuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					274,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHECAAAAAAAAcgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQIAAAAAAABxAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					277,
+					1,
+					"insert",
+					{
+						"characters": "txts"
+					},
+					"BAAAAH0CAAAAAAAAfgIAAAAAAAAAAAAAfgIAAAAAAAB/AgAAAAAAAAAAAAB/AgAAAAAAAIACAAAAAAAAAAAAAIACAAAAAAAAgQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQIAAAAAAAB9AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					282,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG0CAAAAAAAAbQIAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAbgIAAAAAAABuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					288,
+					1,
+					"insert",
+					{
+						"characters": "value=\""
+					},
+					"BwAAAPQCAAAAAAAA9QIAAAAAAAAAAAAA9QIAAAAAAAD2AgAAAAAAAAAAAAD2AgAAAAAAAPcCAAAAAAAAAAAAAPcCAAAAAAAA+AIAAAAAAAAAAAAA+AIAAAAAAAD5AgAAAAAAAAAAAAD5AgAAAAAAAPoCAAAAAAAAAAAAAPoCAAAAAAAA+wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AIAAAAAAAD0AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					289,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAPsCAAAAAAAA/AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wIAAAAAAAD7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					291,
+					1,
+					"paste",
+					null,
+					"AQAAAPsCAAAAAAAA/gIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wIAAAAAAAD7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					293,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAPQCAAAAAAAA9QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AIAAAAAAAD0AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					297,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAB8EAAAAAAAAHwQAAAAAAAAKAAAAYXNkYXNkYWRhcw",
+					"AQAAAAAAAAABAAAAKQQAAAAAAAApBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					298,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAB4EAAAAAAAAHgQAAAAAAAABAAAAJx4EAAAAAAAAHgQAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAHwQAAAAAAAAfBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					299,
+					1,
+					"paste",
+					null,
+					"AQAAAB4EAAAAAAAAIQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgQAAAAAAAAeBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					314,
+					1,
+					"insert",
+					{
+						"characters": ".value"
+					},
+					"BgAAAP8CAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAABAwAAAAAAAAAAAAABAwAAAAAAAAIDAAAAAAAAAAAAAAIDAAAAAAAAAwMAAAAAAAAAAAAAAwMAAAAAAAAEAwAAAAAAAAAAAAAEAwAAAAAAAAUDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wIAAAAAAAD/AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					320,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAPUCAAAAAAAA9QIAAAAAAAAFAAAAdmFsdWU",
+					"AQAAAAAAAAABAAAA+gIAAAAAAAD6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					321,
+					1,
+					"insert",
+					{
+						"characters": "vmo"
+					},
+					"AwAAAPUCAAAAAAAA9gIAAAAAAAAAAAAA9gIAAAAAAAD3AgAAAAAAAAAAAAD3AgAAAAAAAPgCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QIAAAAAAAD1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					322,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPcCAAAAAAAA9wIAAAAAAAABAAAAb/YCAAAAAAAA9gIAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAA+AIAAAAAAAD4AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					323,
+					1,
+					"insert",
+					{
+						"characters": "-modal"
+					},
+					"BgAAAPYCAAAAAAAA9wIAAAAAAAAAAAAA9wIAAAAAAAD4AgAAAAAAAAAAAAD4AgAAAAAAAPkCAAAAAAAAAAAAAPkCAAAAAAAA+gIAAAAAAAAAAAAA+gIAAAAAAAD7AgAAAAAAAAAAAAD7AgAAAAAAAPwCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gIAAAAAAAD2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					328,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPQCAAAAAAAA9AIAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAA9QIAAAAAAAD1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					337,
+					1,
+					"paste",
+					null,
+					"AgAAACUEAAAAAAAALgQAAAAAAAAAAAAALgQAAAAAAAAuBAAAAAAAAAMAAAB0eHQ",
+					"AQAAAAAAAAABAAAAJQQAAAAAAAAoBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					342,
+					1,
+					"insert",
+					{
+						"characters": "()"
+					},
+					"AgAAAB4EAAAAAAAAHwQAAAAAAAAAAAAAHwQAAAAAAAAgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgQAAAAAAAAeBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					343,
+					1,
+					"insert",
+					{
+						"characters": " =>"
+					},
+					"AwAAACAEAAAAAAAAIQQAAAAAAAAAAAAAIQQAAAAAAAAiBAAAAAAAAAAAAAAiBAAAAAAAACMEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIAQAAAAAAAAgBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACMEAAAAAAAAJAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwQAAAAAAAAjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					353,
+					1,
+					"insert",
+					{
+						"characters": "model"
+					},
+					"BgAAAPYCAAAAAAAA9wIAAAAAAAAAAAAA9wIAAAAAAAD3AgAAAAAAAAUAAABtb2RhbPcCAAAAAAAA+AIAAAAAAAAAAAAA+AIAAAAAAAD5AgAAAAAAAAAAAAD5AgAAAAAAAPoCAAAAAAAAAAAAAPoCAAAAAAAA+wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gIAAAAAAAD7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					364,
+					1,
+					"insert",
+					{
+						"characters": "style="
+					},
+					"BwAAAJMCAAAAAAAAlAIAAAAAAAAAAAAAlAIAAAAAAACUAgAAAAAAAAsAAABjb2xzcGFuPSI4IpQCAAAAAAAAlQIAAAAAAAAAAAAAlQIAAAAAAACWAgAAAAAAAAAAAACWAgAAAAAAAJcCAAAAAAAAAAAAAJcCAAAAAAAAmAIAAAAAAAAAAAAAmAIAAAAAAACZAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngIAAAAAAACTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					365,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJkCAAAAAAAAmwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmQIAAAAAAACZAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					1,
+					"insert",
+					{
+						"characters": "wi"
+					},
+					"AgAAAJoCAAAAAAAAmwIAAAAAAAAAAAAAmwIAAAAAAACcAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgIAAAAAAACaAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					367,
+					1,
+					"insert_completion",
+					{
+						"completion": "width: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "width"
+					},
+					"AgAAAJoCAAAAAAAAmgIAAAAAAAACAAAAd2maAgAAAAAAAKICAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAIAAAAAAACcAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					368,
+					1,
+					"insert",
+					{
+						"characters": "90%"
+					},
+					"AwAAAKECAAAAAAAAogIAAAAAAAAAAAAAogIAAAAAAACjAgAAAAAAAAAAAACjAgAAAAAAAKQCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQIAAAAAAAChAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					374,
+					1,
+					"paste",
+					null,
+					"AQAAADQDAAAAAAAARwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAMAAAAAAAA0AwAAAAAAAAAAAAAAAFxA"
+				],
+				[
+					375,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEcDAAAAAAAASAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwMAAAAAAABHAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					377,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEIDAAAAAAAAQgMAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAAQwMAAAAAAABDAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					378,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAEIDAAAAAAAAQwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgMAAAAAAABCAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					382,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEgDAAAAAAAASAMAAAAAAAALAAAAY29sc3Bhbj0iMiJHAwAAAAAAAEcDAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAUwMAAAAAAABIAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					392,
+					1,
+					"insert",
+					{
+						"characters": " s"
+					},
+					"AgAAAFMCAAAAAAAAVAIAAAAAAAAAAAAAVAIAAAAAAABVAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					393,
+					1,
+					"insert_completion",
+					{
+						"completion": "style=\"$1\"$0",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "style"
+					},
+					"AgAAAFQCAAAAAAAAVAIAAAAAAAABAAAAc1QCAAAAAAAAXAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQIAAAAAAABVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					394,
+					1,
+					"insert_completion",
+					{
+						"completion": "width",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "width"
+					},
+					"AQAAAFsCAAAAAAAAYAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwIAAAAAAABbAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					395,
+					1,
+					"insert",
+					{
+						"characters": ":100%s"
+					},
+					"BgAAAGACAAAAAAAAYQIAAAAAAAAAAAAAYQIAAAAAAABiAgAAAAAAAAAAAABiAgAAAAAAAGMCAAAAAAAAAAAAAGMCAAAAAAAAZAIAAAAAAAAAAAAAZAIAAAAAAABlAgAAAAAAAAAAAABlAgAAAAAAAGYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					396,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGUCAAAAAAAAZQIAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAZgIAAAAAAABmAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					403,
+					1,
+					"insert",
+					{
+						"characters": " sty"
+					},
+					"BAAAAPYCAAAAAAAA9wIAAAAAAAAAAAAA9wIAAAAAAAD4AgAAAAAAAAAAAAD4AgAAAAAAAPkCAAAAAAAAAAAAAPkCAAAAAAAA+gIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gIAAAAAAAD2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					404,
+					1,
+					"insert_completion",
+					{
+						"completion": "style",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "style"
+					},
+					"AgAAAPcCAAAAAAAA9wIAAAAAAAADAAAAc3R59wIAAAAAAAD8AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gIAAAAAAAD6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					405,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAAPwCAAAAAAAA/QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AIAAAAAAAD8AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					406,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAP0CAAAAAAAA/wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QIAAAAAAAD9AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					407,
+					1,
+					"insert",
+					{
+						"characters": "wi"
+					},
+					"AgAAAP4CAAAAAAAA/wIAAAAAAAAAAAAA/wIAAAAAAAAAAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gIAAAAAAAD+AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					408,
+					1,
+					"insert_completion",
+					{
+						"completion": "width: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "width"
+					},
+					"AgAAAP4CAAAAAAAA/gIAAAAAAAACAAAAd2n+AgAAAAAAAAYDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					409,
+					1,
+					"insert",
+					{
+						"characters": "100%"
+					},
+					"BAAAAAUDAAAAAAAABgMAAAAAAAAAAAAABgMAAAAAAAAHAwAAAAAAAAAAAAAHAwAAAAAAAAgDAAAAAAAAAAAAAAgDAAAAAAAACQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQMAAAAAAAAFAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					442,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAIIEAAAAAAAAkwUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQMAAAAAAACCBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					448,
+					1,
+					"insert",
+					{
+						"characters": "error"
+					},
+					"BgAAAEQFAAAAAAAARQUAAAAAAAAAAAAARQUAAAAAAABFBQAAAAAAAAUAAABjaGVja0UFAAAAAAAARgUAAAAAAAAAAAAARgUAAAAAAABHBQAAAAAAAAAAAABHBQAAAAAAAEgFAAAAAAAAAAAAAEgFAAAAAAAASQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAUAAAAAAABJBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					449,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEQFAAAAAAAARAUAAAAAAAAFAAAAZXJyb3I",
+					"AQAAAAAAAAABAAAASQUAAAAAAABJBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					450,
+					1,
+					"insert",
+					{
+						"characters": "trash"
+					},
+					"BQAAAEQFAAAAAAAARQUAAAAAAAAAAAAARQUAAAAAAABGBQAAAAAAAAAAAABGBQAAAAAAAEcFAAAAAAAAAAAAAEcFAAAAAAAASAUAAAAAAAAAAAAASAUAAAAAAABJBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAUAAAAAAABEBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					453,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAACMFAAAAAAAAIwUAAAAAAAAFAAAAZ3JlZW4",
+					"AQAAAAAAAAABAAAAKAUAAAAAAAAoBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					454,
+					1,
+					"insert",
+					{
+						"characters": "red"
+					},
+					"AwAAACMFAAAAAAAAJAUAAAAAAAAAAAAAJAUAAAAAAAAlBQAAAAAAAAAAAAAlBQAAAAAAACYFAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwUAAAAAAAAjBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					459,
+					1,
+					"insert",
+					{
+						"characters": "ed"
+					},
+					"AgAAAEcFAAAAAAAASAUAAAAAAAAAAAAASAUAAAAAAABJBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwUAAAAAAABHBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					462,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEIFAAAAAAAAQgUAAAAAAAAHAAAAdHJhc2hlZA",
+					"AQAAAAAAAAABAAAASQUAAAAAAABJBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					463,
+					1,
+					"insert",
+					{
+						"characters": "delete"
+					},
+					"BgAAAEIFAAAAAAAAQwUAAAAAAAAAAAAAQwUAAAAAAABEBQAAAAAAAAAAAABEBQAAAAAAAEUFAAAAAAAAAAAAAEUFAAAAAAAARgUAAAAAAAAAAAAARgUAAAAAAABHBQAAAAAAAAAAAABHBQAAAAAAAEgFAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgUAAAAAAABCBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					468,
+					8,
+					"swap_line_up",
+					null,
+					"EAAAAIIEAAAAAAAAggQAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgpvBAAAAAAAAH8FAAAAAAAAAAAAAG8EAAAAAAAAbwQAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgo6BAAAAAAAAEoFAAAAAAAAAAAAADoEAAAAAAAAOgQAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgoZBAAAAAAAACkFAAAAAAAAAAAAABkEAAAAAAAAGQQAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgr3AwAAAAAAAAcFAAAAAAAAAAAAAPcDAAAAAAAA9wMAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgrdAwAAAAAAAO0EAAAAAAAAAAAAAN0DAAAAAAAA3QMAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgqtAwAAAAAAAL0EAAAAAAAAAAAAAK0DAAAAAAAArQMAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgqIAwAAAAAAAJgEAAAAAAAAAAAAAIgDAAAAAAAAiAMAAAAAAAAQAQAAICAgICAgICAgICAgICAgIDxxLWJ0bgogICAgICAgICAgICAgICAgICAgIGNsYXNzPSJuby1wcmludCIKICAgICAgICAgICAgICAgICAgICBzdHlsZT0ibWFyZ2luLWJvdHRvbTogNXB4OyIKICAgICAgICAgICAgICAgICAgICBkZW5zZQogICAgICAgICAgICAgICAgICAgIGNvbG9yPSJyZWQiCiAgICAgICAgICAgICAgICAgICAgaWNvbj0iZGVsZXRlIgogICAgICAgICAgICAgICAgICAgIEBjbGljaz0iKCkgPT4gb25TYXZlKHR4dC52YWx1ZSkiCiAgICAgICAgICAgICAgICAvPgpxAwAAAAAAAIEEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQUAAAAAAACCBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					476,
+					1,
+					"insert",
+					{
+						"characters": " am"
+					},
+					"AwAAANsDAAAAAAAA3AMAAAAAAAAAAAAA3AMAAAAAAADdAwAAAAAAAAAAAADdAwAAAAAAAN4DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wMAAAAAAADbAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					477,
+					2,
+					"left_delete",
+					null,
+					"AgAAAN0DAAAAAAAA3QMAAAAAAAABAAAAbdwDAAAAAAAA3AMAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAA3gMAAAAAAADeAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					478,
+					1,
+					"insert",
+					{
+						"characters": "margin-r"
+					},
+					"CAAAANwDAAAAAAAA3QMAAAAAAAAAAAAA3QMAAAAAAADeAwAAAAAAAAAAAADeAwAAAAAAAN8DAAAAAAAAAAAAAN8DAAAAAAAA4AMAAAAAAAAAAAAA4AMAAAAAAADhAwAAAAAAAAAAAADhAwAAAAAAAOIDAAAAAAAAAAAAAOIDAAAAAAAA4wMAAAAAAAAAAAAA4wMAAAAAAADkAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AMAAAAAAADcAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					479,
+					1,
+					"insert_completion",
+					{
+						"completion": "margin-right: $0;",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "margin-right"
+					},
+					"AgAAANwDAAAAAAAA3AMAAAAAAAAIAAAAbWFyZ2luLXLcAwAAAAAAAOsDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AMAAAAAAADkAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					480,
+					1,
+					"insert",
+					{
+						"characters": "5px"
+					},
+					"AwAAAOoDAAAAAAAA6wMAAAAAAAAAAAAA6wMAAAAAAADsAwAAAAAAAAAAAADsAwAAAAAAAO0DAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gMAAAAAAADqAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					488,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKQFAAAAAAAApAUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAApQUAAAAAAAClBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					492,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAANgFAAAAAAAA2QUAAAAAAAAAAAAA2AUAAAAAAADgBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gUAAAAAAADmBQAAAAAAAAAAAAAAgFhA"
+				],
+				[
+					493,
+					1,
+					"paste",
+					null,
+					"AQAAAOAFAAAAAAAA4AYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AUAAAAAAADgBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					503,
+					4,
+					"unindent",
+					null,
+					"HAAAAOcFAAAAAAAA5wUAAAAAAAACAAAAICAKBgAAAAAAAAoGAAAAAAAAAgAAACAgOAYAAAAAAAA4BgAAAAAAAAIAAAAgIFAGAAAAAAAAUAYAAAAAAAACAAAAICBwBgAAAAAAAHAGAAAAAAAAAgAAACAgjwYAAAAAAACPBgAAAAAAAAIAAAAgIMIGAAAAAAAAwgYAAAAAAAACAAAAICDnBQAAAAAAAOcFAAAAAAAAAgAAACAgCAYAAAAAAAAIBgAAAAAAAAIAAAAgIDQGAAAAAAAANAYAAAAAAAACAAAAICBKBgAAAAAAAEoGAAAAAAAAAgAAACAgaAYAAAAAAABoBgAAAAAAAAIAAAAgIIUGAAAAAAAAhQYAAAAAAAACAAAAICC2BgAAAAAAALYGAAAAAAAAAgAAACAg5wUAAAAAAADnBQAAAAAAAAIAAAAgIAYGAAAAAAAABgYAAAAAAAACAAAAICAwBgAAAAAAADAGAAAAAAAAAgAAACAgRAYAAAAAAABEBgAAAAAAAAIAAAAgIGAGAAAAAAAAYAYAAAAAAAACAAAAICB7BgAAAAAAAHsGAAAAAAAAAgAAACAgqgYAAAAAAACqBgAAAAAAAAIAAAAgIOcFAAAAAAAA5wUAAAAAAAACAAAAICAEBgAAAAAAAAQGAAAAAAAAAgAAACAgLAYAAAAAAAAsBgAAAAAAAAIAAAAgID4GAAAAAAAAPgYAAAAAAAACAAAAICBYBgAAAAAAAFgGAAAAAAAAAgAAACAgcQYAAAAAAABxBgAAAAAAAAIAAAAgIJ4GAAAAAAAAngYAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAA5wUAAAAAAADhBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					509,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAPMFAAAAAAAA8wUAAAAAAAAQAAAAY2xhc3M9Im5vLXByaW50IucFAAAAAAAA5wUAAAAAAAAMAAAAICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAAwYAAAAAAADzBQAAAAAAAAAAAAAAAFVA"
+				],
+				[
+					510,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOYFAAAAAAAA5gUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5wUAAAAAAADnBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					516,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAAPMFAAAAAAAA8wUAAAAAAAAbAAAAc3R5bGU9Im1hcmdpbi1ib3R0b206IDVweDsi5wUAAAAAAADnBQAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAADgYAAAAAAADzBQAAAAAAAAAAAAAAAFVA"
+				],
+				[
+					517,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOYFAAAAAAAA5gUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA5wUAAAAAAADnBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					522,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAACUGAAAAAAAAJQYAAAAAAAAFAAAAY2hlY2s",
+					"AQAAAAAAAAABAAAAKgYAAAAAAAAqBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					523,
+					1,
+					"insert",
+					{
+						"characters": "plus"
+					},
+					"BAAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAAnBgAAAAAAACgGAAAAAAAAAAAAACgGAAAAAAAAKQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQYAAAAAAAAlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					524,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAACUGAAAAAAAAJQYAAAAAAAAEAAAAcGx1cw",
+					"AQAAAAAAAAABAAAAKQYAAAAAAAApBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					525,
+					1,
+					"insert",
+					{
+						"characters": "add"
+					},
+					"AwAAACUGAAAAAAAAJgYAAAAAAAAAAAAAJgYAAAAAAAAnBgAAAAAAAAAAAAAnBgAAAAAAACgGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQYAAAAAAAAlBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					533,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD4GAAAAAAAAPgYAAAAAAAAXAAAAKCkgPT4gb25TYXZlKHR4dC52YWx1ZSk",
+					"AQAAAAAAAAABAAAAPgYAAAAAAABVBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					534,
+					1,
+					"insert",
+					{
+						"characters": "quo"
+					},
+					"AwAAAD4GAAAAAAAAPwYAAAAAAAAAAAAAPwYAAAAAAABABgAAAAAAAAAAAABABgAAAAAAAEEGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgYAAAAAAAA+BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					535,
+					1,
+					"insert",
+					{
+						"characters": "teSote"
+					},
+					"BgAAAEEGAAAAAAAAQgYAAAAAAAAAAAAAQgYAAAAAAABDBgAAAAAAAAAAAABDBgAAAAAAAEQGAAAAAAAAAAAAAEQGAAAAAAAARQYAAAAAAAAAAAAARQYAAAAAAABGBgAAAAAAAAAAAABGBgAAAAAAAEcGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQYAAAAAAABBBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					538,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEYGAAAAAAAARgYAAAAAAAABAAAAZUUGAAAAAAAARQYAAAAAAAABAAAAdEQGAAAAAAAARAYAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAARwYAAAAAAABHBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					539,
+					1,
+					"insert",
+					{
+						"characters": "tore"
+					},
+					"BAAAAEQGAAAAAAAARQYAAAAAAAAAAAAARQYAAAAAAABGBgAAAAAAAAAAAABGBgAAAAAAAEcGAAAAAAAAAAAAAEcGAAAAAAAASAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAYAAAAAAABEBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					544,
+					1,
+					"insert",
+					{
+						"characters": ".txt"
+					},
+					"BAAAAEgGAAAAAAAASQYAAAAAAAAAAAAASQYAAAAAAABKBgAAAAAAAAAAAABKBgAAAAAAAEsGAAAAAAAAAAAAAEsGAAAAAAAATAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAYAAAAAAABIBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					545,
+					1,
+					"insert",
+					{
+						"characters": "s.pu"
+					},
+					"BAAAAEwGAAAAAAAATQYAAAAAAAAAAAAATQYAAAAAAABOBgAAAAAAAAAAAABOBgAAAAAAAE8GAAAAAAAAAAAAAE8GAAAAAAAAUAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAYAAAAAAABMBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					546,
+					1,
+					"insert",
+					{
+						"characters": "sh({"
+					},
+					"BAAAAFAGAAAAAAAAUQYAAAAAAAAAAAAAUQYAAAAAAABSBgAAAAAAAAAAAABSBgAAAAAAAFMGAAAAAAAAAAAAAFMGAAAAAAAAVAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAYAAAAAAABQBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					547,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFMGAAAAAAAAUwYAAAAAAAABAAAAew",
+					"AQAAAAAAAAABAAAAVAYAAAAAAABUBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					548,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAAFMGAAAAAAAAVAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwYAAAAAAABTBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					550,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFMGAAAAAAAAVQYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwYAAAAAAABTBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					551,
+					1,
+					"insert",
+					{
+						"characters": "value:"
+					},
+					"BgAAAFQGAAAAAAAAVQYAAAAAAAAAAAAAVQYAAAAAAABWBgAAAAAAAAAAAABWBgAAAAAAAFcGAAAAAAAAAAAAAFcGAAAAAAAAWAYAAAAAAAAAAAAAWAYAAAAAAABZBgAAAAAAAAAAAABZBgAAAAAAAFoGAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAYAAAAAAABUBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					552,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAFoGAAAAAAAAXAYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgYAAAAAAABaBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					560,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGgEAAAAAAAAaAQAAAAAAAAXAAAAKCkgPT4gb25TYXZlKHR4dC52YWx1ZSk",
+					"AQAAAAAAAAABAAAAaAQAAAAAAAB/BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					561,
+					1,
+					"insert",
+					{
+						"characters": "quo"
+					},
+					"AwAAAGgEAAAAAAAAaQQAAAAAAAAAAAAAaQQAAAAAAABqBAAAAAAAAAAAAABqBAAAAAAAAGsEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAQAAAAAAABoBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					562,
+					1,
+					"insert_completion",
+					{
+						"completion": "quoteStore",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "quoteStore"
+					},
+					"AgAAAGgEAAAAAAAAaAQAAAAAAAADAAAAcXVvaAQAAAAAAAByBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawQAAAAAAABrBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					563,
+					1,
+					"insert",
+					{
+						"characters": ".txts."
+					},
+					"BgAAAHIEAAAAAAAAcwQAAAAAAAAAAAAAcwQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAHUEAAAAAAAAAAAAAHUEAAAAAAAAdgQAAAAAAAAAAAAAdgQAAAAAAAB3BAAAAAAAAAAAAAB3BAAAAAAAAHgEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgQAAAAAAAByBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					564,
+					1,
+					"insert",
+					{
+						"characters": "splice()"
+					},
+					"CAAAAHgEAAAAAAAAeQQAAAAAAAAAAAAAeQQAAAAAAAB6BAAAAAAAAAAAAAB6BAAAAAAAAHsEAAAAAAAAAAAAAHsEAAAAAAAAfAQAAAAAAAAAAAAAfAQAAAAAAAB9BAAAAAAAAAAAAAB9BAAAAAAAAH4EAAAAAAAAAAAAAH4EAAAAAAAAfwQAAAAAAAAAAAAAfwQAAAAAAACABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					570,
+					1,
+					"insert_snippet",
+					{
+						"contents": "(${0:$SELECTION})"
+					},
+					"AgAAAH0CAAAAAAAAfQIAAAAAAAADAAAAdHh0fQIAAAAAAACCAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAIAAAAAAAB9AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					572,
+					1,
+					"insert",
+					{
+						"characters": ",io"
+					},
+					"AwAAAIECAAAAAAAAggIAAAAAAAAAAAAAggIAAAAAAACDAgAAAAAAAAAAAACDAgAAAAAAAIQCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQIAAAAAAACBAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					573,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIMCAAAAAAAAgwIAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAhAIAAAAAAACEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					576,
+					1,
+					"insert",
+					{
+						"characters": "i,1"
+					},
+					"AwAAAIMEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACFBAAAAAAAAAAAAACFBAAAAAAAAIYEAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwQAAAAAAACDBAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "src/stores/quote.js",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "aju"
+					},
+					"AwAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAPoAAAAAAAAA+gAAAAAAAAADAAAAYWp1",
+					"AQAAAAAAAAABAAAA/QAAAAAAAAD9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "shottexts"
+					},
+					"CQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAD/AAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAPoAAAAAAAAA+gAAAAAAAAAJAAAAc2hvdHRleHRz",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "texts"
+					},
+					"BQAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAP8AAAAAAAAAAAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wAAAAAAAAD/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAANQAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAANwAAAAAAAAA3AAAAAAAAAAQAAAAcXVvdGVDb25zZWN1dGl2ZQ",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"paste",
+					null,
+					"AQAAANwAAAAAAAAA3wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAOYAAAAAAAAA5gAAAAAAAAADAAAAMjAw",
+					"AQAAAAAAAAABAAAA6QAAAAAAAADpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAOYAAAAAAAAA6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gAAAAAAAADmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADqAAAAAAAAAAAAAADoAAAAAAAAAOgAAAAAAAAAAgAAACAg6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5wAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AgAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AgAAAO8AAAAAAAAA7wAAAAAAAAACAAAAICDoAAAAAAAAAOgAAAAAAAAABAAAACAgICA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAADxA"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOcAAAAAAAAA5wAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA6AAAAAAAAADoAAAAAAAAAAAAAAAAACxA"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADqAAAAAAAAAAAAAADoAAAAAAAAAOgAAAAAAAAAAgAAACAg6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5wAAAAAAAADnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAOwAAAAAAAAA7gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"",
+					null,
+					"AQAAAO0AAAAAAAAAUwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFQBAAAAAAAAVQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFIBAAAAAAAAUgEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAFUBAAAAAAAAwgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"",
+					null,
+					"AgAAAFoBAAAAAAAAsgEAAAAAAAAAAAAAsgEAAAAAAACyAQAAAAAAAGUAAABVbmlkYWQgIGphYyBzdW5yYXkgcGFyYSAxNCBwZXJzb25hcywgYS9jLCB1bmlkYWRlcyBkZSBjYXJnYSB1c2IsIG1hbGV0ZXJvLCBhc2llbnRvcyByZWNsaW5hYmxlcywgV2lGaQ",
+					"AQAAAAAAAAABAAAAvwEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAALUBAAAAAAAAFQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"",
+					null,
+					"AgAAALoBAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAjAgAAAAAAAFgAAABVbmlkYWQgVG95b3RhIGhpYWNlIHBhcmEgMTEgcGVyc29uYXMsIGEvYywgbWFsZXRlcm8sIGNhbmFzdGEsIGFzaWVudG9zIHJlY2xpbmFibGVzLCBXaUZp",
+					"AQAAAAAAAAABAAAAEgIAAAAAAAC6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAANoCAAAAAAAA2wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gIAAAAAAADaAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAANsCAAAAAAAA3QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wIAAAAAAADbAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAANsCAAAAAAAA2wIAAAAAAAABAAAAJ9sCAAAAAAAA2wIAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAA3AIAAAAAAADcAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAANsCAAAAAAAA3QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wIAAAAAAADbAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "txts"
+					},
+					"BAAAANwCAAAAAAAA3QIAAAAAAAAAAAAA3QIAAAAAAADeAgAAAAAAAAAAAADeAgAAAAAAAN8CAAAAAAAAAAAAAN8CAAAAAAAA4AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AIAAAAAAADcAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"paste",
+					null,
+					"AgAAAFICAAAAAAAAVgIAAAAAAAAAAAAAVgIAAAAAAABWAgAAAAAAAAUAAAB0ZXh0cw",
+					"AQAAAAAAAAABAAAAUgIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOICAAAAAAAA4wIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gIAAAAAAADiAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{${0:$SELECTION}}"
+					},
+					"AgAAAO0AAAAAAAAA7QAAAAAAAABnAAAAJ1VuaWRhZCAgamFjIHN1bnJheSBwYXJhIDE0IHBlcnNvbmFzLCBhL2MsIHVuaWRhZGVzIGRlIGNhcmdhIHVzYiwgbWFsZXRlcm8sIGFzaWVudG9zIHJlY2xpbmFibGVzLCBXaUZpJ+0AAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "txt:"
+					},
+					"BAAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gAAAAAAAADuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAO4AAAAAAAAA7gAAAAAAAAADAAAAdHh0",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "valye"
+					},
+					"BQAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gAAAAAAAADuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPIAAAAAAAAA8gAAAAAAAAABAAAAZfEAAAAAAAAA8QAAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "ue"
+					},
+					"AgAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{${0:$SELECTION}}"
+					},
+					"AgAAAGIBAAAAAAAAYgEAAAAAAABaAAAAJ1VuaWRhZCBUb3lvdGEgaGlhY2UgcGFyYSAxMSBwZXJzb25hcywgYS9jLCBtYWxldGVybywgY2FuYXN0YSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIFdpRmknYgEAAAAAAAC+AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgEAAAAAAAC8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"insert",
+					{
+						"characters": "value:"
+					},
+					"BgAAAGMBAAAAAAAAZAEAAAAAAAAAAAAAZAEAAAAAAABlAQAAAAAAAAAAAABlAQAAAAAAAGYBAAAAAAAAAAAAAGYBAAAAAAAAZwEAAAAAAAAAAAAAZwEAAAAAAABoAQAAAAAAAAAAAABoAQAAAAAAAGkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwEAAAAAAABjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{${0:$SELECTION}}"
+					},
+					"AgAAAMoBAAAAAAAAygEAAAAAAABrAAAAJ1VuaWRhZCBtYXh1cyBwYXJhIDExIHBlcnNvbmFzLCBhL2MsIG1hbGV0ZXJvLCB1bmlkYWRlcyBkZSBjYXJnYSB1c2IsIG1hbGV0ZXJvLCBhc2llbnRvcyByZWNsaW5hYmxlcywgV2lGaSfKAQAAAAAAADcCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygEAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "value:"
+					},
+					"BgAAAMsBAAAAAAAAzAEAAAAAAAAAAAAAzAEAAAAAAADNAQAAAAAAAAAAAADNAQAAAAAAAM4BAAAAAAAAAAAAAM4BAAAAAAAAzwEAAAAAAAAAAAAAzwEAAAAAAADQAQAAAAAAAAAAAADQAQAAAAAAANEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "\n\nconst"
+					},
+					"CgAAAEMCAAAAAAAARAIAAAAAAAAAAAAARAIAAAAAAABGAgAAAAAAAAAAAABGAgAAAAAAAEcCAAAAAAAAAAAAAEcCAAAAAAAASQIAAAAAAAAAAAAARAIAAAAAAABEAgAAAAAAAAIAAAAgIEcCAAAAAAAASAIAAAAAAAAAAAAASAIAAAAAAABJAgAAAAAAAAAAAABJAgAAAAAAAEoCAAAAAAAAAAAAAEoCAAAAAAAASwIAAAAAAAAAAAAASwIAAAAAAABMAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwIAAAAAAABDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEwCAAAAAAAATQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAIAAAAAAABMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "lastmsg"
+					},
+					"BwAAAE0CAAAAAAAATgIAAAAAAAAAAAAATgIAAAAAAABPAgAAAAAAAAAAAABPAgAAAAAAAFACAAAAAAAAAAAAAFACAAAAAAAAUQIAAAAAAAAAAAAAUQIAAAAAAABSAgAAAAAAAAAAAABSAgAAAAAAAFMCAAAAAAAAAAAAAFMCAAAAAAAAVAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQIAAAAAAABNAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAFQCAAAAAAAAVQIAAAAAAAAAAAAAVQIAAAAAAABWAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAIAAAAAAABUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFYCAAAAAAAAVwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgIAAAAAAABWAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAFcCAAAAAAAAWQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"paste",
+					null,
+					"AQAAAFgCAAAAAAAANwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAIAAAAAAABYAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"insert",
+					{
+						"characters": "ref("
+					},
+					"BAAAAFcCAAAAAAAAWAIAAAAAAAAAAAAAWAIAAAAAAABZAgAAAAAAAAAAAABZAgAAAAAAAFoCAAAAAAAAAAAAAFoCAAAAAAAAWwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": ")"
+					},
+					"AQAAADwDAAAAAAAAPQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAMAAAAAAAA8AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAGkDAAAAAAAAagMAAAAAAAAAAAAAagMAAAAAAABuAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQMAAAAAAABpAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"paste",
+					null,
+					"AQAAAG4DAAAAAAAAdQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgMAAAAAAABuAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAHUDAAAAAAAAdgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQMAAAAAAAB1AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAAEAAAAAAAAAQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAAEEAAAAAAAAAwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"paste",
+					null,
+					"AQAAAAIEAAAAAAAACQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"",
+					null,
+					"AgAAAAAAAAAAAAAAmAMAAAAAAAAAAAAAmAMAAAAAAACYAwAAAAAAACMEAABpbXBvcnQgeyBkZWZpbmVTdG9yZSB9IGZyb20gJ3BpbmlhJwppbXBvcnQgeyByZWYsIGNvbXB1dGVkLCB3YXRjaCB9IGZyb20gJ3Z1ZScKLy8gaW1wb3J0IHsgaTE4biB9IGZyb20gJ3Z1ZS1pMThuJzsKCmV4cG9ydCBjb25zdCB1c2VRdW90ZVN0b3JlID0gZGVmaW5lU3RvcmUoJ3F1b3RlcycsICgpID0+IHsKCiAgY29uc3QgcXVvdGVDb25zZWN1dGl2ZSA9IHJlZigyMDApCiAgY29uc3QgdHh0cyA9IHJlZihbCiAgICB7dmFsdWU6J1VuaWRhZCAgamFjIHN1bnJheSBwYXJhIDE0IHBlcnNvbmFzLCBhL2MsIHVuaWRhZGVzIGRlIGNhcmdhIHVzYiwgbWFsZXRlcm8sIGFzaWVudG9zIHJlY2xpbmFibGVzLCBXaUZpJ30sCiAgICB7dmFsdWU6J1VuaWRhZCBUb3lvdGEgaGlhY2UgcGFyYSAxMSBwZXJzb25hcywgYS9jLCBtYWxldGVybywgY2FuYXN0YSwgYXNpZW50b3MgcmVjbGluYWJsZXMsIFdpRmknfSwKICAgIHt2YWx1ZTonVW5pZGFkIG1heHVzIHBhcmEgMTEgcGVyc29uYXMsIGEvYywgbWFsZXRlcm8sIHVuaWRhZGVzIGRlIGNhcmdhIHVzYiwgbWFsZXRlcm8sIGFzaWVudG9zIHJlY2xpbmFibGVzLCBXaUZpJ30sCiAgXSkKCiAgY29uc3QgbGFzdG1zZyA9IHJlZigiVE9ETyBNT1ZJTUlFTlRPIEVYVFJBIEEgTE8gQ09USVpBRE8gVElFTkUgQ09TVE8gQURJQ0lPTkFMLiBFTCBTRVJWSUNJTyBJTkNMVVlFIElOSUNBTUVOVEUgTE9TIEtJTE9NRVRST1MgRVNUQUJMRUNJRE9TIEVOIExBIFBSRVNFTlRFIENPVElaQUNJT04gQ1VBTFFVSUVSIFJFQ09SSURPIEFESUNJT05BTCBPIEVYVEVOQ0lPTiBERUwgVFJBWUVDVE8gVEVORFJBIFVOIENPU1RPIEFESUNJT05BTCIpCgogIHJldHVybiB7CiAgICBxdW90ZUNvbnNlY3V0aXZlLAogICAgdHh0cywKICAgIGxhc3Rtc2csCiAgfQp9LHsKICBwZXJzaXN0OiB7CiAgICBlbmFibGVkOnRydWUsCiAgICBzdHJhdGVnaWVzOiBbCiAgICAgIHsKICAgICAgICBzdG9yYWdlOiBsb2NhbFN0b3JhZ2UsCiAgICAgICAgcGF0aHM6IFsncXVvdGVDb25zZWN1dGl2ZScsJ3R4dHMnLCdsYXN0bXNnJ10sCiAgICAgIH0sCiAgICBdCiAgfQp9KQo",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAjBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"paste",
+					null,
+					"AgAAAEgCAAAAAAAAJwMAAAAAAAAAAAAAJwMAAAAAAAAnAwAAAAAAADwAAABUT0RPIE1PVklNSUVOVE8gRVhUUkEgQSBMTyBDT1RJWkFETyBUSUVORSBDT1NUTyBBRElDSU9OQUwuLi4",
+					"AQAAAAAAAAABAAAASAIAAAAAAACEAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1066,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					21,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAADcAwAAewogICJuYW1lIjogInRyYW5zcGFycm95by1xdW90ZXIiLAogICJ2ZXJzaW9uIjogIjAuMC4xIiwKICAiZGVzY3JpcHRpb24iOiAiQSBRdWFzYXIgUHJvamVjdCIsCiAgInByb2R1Y3ROYW1lIjogIlRyYW5zcCBBcnJveW8gUXVvdGVyIiwKICAiYXV0aG9yIjogIkx1aXMgVWljYWIgPHVpY2FiMjU5M0BnbWFpbC5jb20+IiwKICAidHlwZSI6ICJtb2R1bGUiLAogICJwcml2YXRlIjogdHJ1ZSwKICAic2NyaXB0cyI6IHsKICAgICJ0ZXN0IjogImVjaG8gXCJObyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMCIsCiAgICAiZGV2IjogInF1YXNhciBkZXYiLAogICAgImJ1aWxkIjogInF1YXNhciBidWlsZCIsCiAgICAicG9zdGluc3RhbGwiOiAicXVhc2FyIHByZXBhcmUiLAogICAgImRlcGxveSI6ICJxdWFzYXIgYnVpbGQgJiYgZ2l0IHN1YnRyZWUgcHVzaCAtLXByZWZpeCBkaXN0L3NwYSBvcmlnaW4gZ2gtcGFnZXMiCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgIkBxdWFzYXIvZXh0cmFzIjogIl4xLjE2LjQiLAogICAgImx1eG9uIjogIl4zLjcuMiIsCiAgICAicGluaWEiOiAiXjMuMC4xIiwKICAgICJwaW5pYS1wbHVnaW4tcGVyc2lzdGVkc3RhdGUiOiAiXjQuNy4xIiwKICAgICJxdWFzYXIiOiAiXjIuMTYuMCIsCiAgICAidnVlIjogIjMuNS4yMCIsCiAgICAidnVlLXJvdXRlciI6ICJeNC4wLjAiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBlbGVjdHJvbi9wYWNrYWdlciI6ICJeMTguNC40IiwKICAgICJAcXVhc2FyL2FwcC12aXRlIjogIl4yLjEuMCIsCiAgICAiYXV0b3ByZWZpeGVyIjogIl4xMC40LjIiLAogICAgImVsZWN0cm9uIjogIl4zOS4xLjAiLAogICAgInBvc3Rjc3MiOiAiXjguNC4xNCIKICB9LAogICJlbmdpbmVzIjogewogICAgIm5vZGUiOiAiXjI4IHx8IF4yNiB8fCBeMjQgfHwgXjIyIHx8IF4yMCIsCiAgICAibnBtIjogIj49IDYuMTMuNCIsCiAgICAieWFybiI6ICI+PSAxLjIxLjEiCiAgfQp9CgAAAAAAAAAAKgQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -669,11 +6226,11 @@
 	[
 		"/home/luis/dev/transparroyo-quoter",
 		"/home/luis/dev/transparroyo-quoter/src",
-		"/home/luis/dev/transparroyo-quoter/src/pages",
-		"/home/luis/dev/transparroyo-quoter/src/views"
+		"/home/luis/dev/transparroyo-quoter/src/stores"
 	],
 	"file_history":
 	[
+		"/home/luis/dev/transparroyo-quoter/src/pages/IndexPage.vue",
 		"/home/luis/dev/transparroyo-quoter/src/pages/PrintPage.vue",
 		"/home/luis/dev/transparroyo-quoter/src/pages/EditPrintPage.vue",
 		"/home/luis/dev/transparroyo-quoter/.gitignore",
@@ -687,7 +6244,6 @@
 		"/home/luis/dev/transparroyo-quoter/src/stores/alert.js",
 		"/home/luis/dev/transparroyo-quoter/src/stores/quote.js",
 		"/home/luis/dev/transparroyo-quoter/src/components/CalcPopup.vue",
-		"/home/luis/dev/transparroyo-quoter/src/pages/IndexPage.vue",
 		"/home/luis/dev/transparroyo-quoter/src/layouts/MainLayout.vue",
 		"/home/luis/dev/transparroyo-quoter/src/App.vue",
 		"/home/luis/dev/transparroyo-quoter/src/pages/QuoterPage.vue",
@@ -805,7 +6361,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -820,6 +6376,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"createPersistedStatePlugin",
+			"{ ",
+			"quoteStore",
+			"observaciones",
+			"observa",
+			"observaciones",
+			"quoteStore",
+			"quoteSote",
+			"useQuoteStore",
+			"txt",
+			"shorttextDialog",
+			"ShottextPopup",
+			"dialog",
+			"description",
+			"micro",
 			"add",
 			"<td><span class=\"show-p",
 			"class=\"label\"",
@@ -932,22 +6503,7 @@
 			"        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n",
 			"        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n",
 			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n        ",
-			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n        proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-			"cellpadding=\"3\"",
-			"<p>",
-			"p v-if",
-			">{",
-			"printMode",
-			"q-input ",
-			"email",
-			"direccion",
-			"outlined></q-input>",
-			"cellpadding=\"6\"",
-			"border=\"0\"",
-			":</div",
-			":</div>",
-			"col-6\">"
+			"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\n        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\n        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\n        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\n        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n        proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -971,19 +6527,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "src/pages/IndexPage.vue",
+					"file": "src/pages/EditPrintPage.vue",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 226,
+						"buffer_size": 12728,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								10495,
+								10495
 							]
 						],
 						"settings":
@@ -999,33 +6555,33 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/pages/EditPrintPage.vue",
+					"file": "src/stores/index.js",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12139,
+						"buffer_size": 1047,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								392,
-								392
+								315,
+								326
 							]
 						],
 						"settings":
 						{
 							"editorconfig": true,
 							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/Vue/Vue Component.sublime-syntax",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true,
 							"trim_trailing_white_space_on_save": true
@@ -1035,6 +6591,175 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 156.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "src/components/CalcPopup.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								5500
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/components/ShorttextPopup.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Vue/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/stores/quote.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1031,
+								1031
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1058,11 +6783,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1090,6 +6822,18 @@
 		"selected_items":
 		[
 			[
+				"pack",
+				"package.json"
+			],
+			[
+				"store",
+				"src/stores/quote.js"
+			],
+			[
+				"calc",
+				"src/components/CalcPopup.vue"
+			],
+			[
 				"packa",
 				"package.json"
 			],
@@ -1114,16 +6858,8 @@
 				"src/router/routes.js"
 			],
 			[
-				"pack",
-				"package.json"
-			],
-			[
 				"app",
 				"src/App.vue"
-			],
-			[
-				"calc",
-				"src/components/CalcPopup.vue"
 			],
 			[
 				"mainla",
@@ -1596,10 +7332,6 @@
 			[
 				"bookignen",
 				"app/Models/BookingEngine.php"
-			],
-			[
-				"account",
-				"app/Models/Account.php"
 			]
 		],
 		"width": 0.0

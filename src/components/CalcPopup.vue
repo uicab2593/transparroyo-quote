@@ -8,7 +8,6 @@
   const pagoChofer = ref(0)
   const montoGira = ref(0)
   const viaticos = ref(0)
-  const tipoCambio = ref(500)
   const peajes = ref(0)
 
   const kms = ref(10)
@@ -66,7 +65,6 @@
                   <q-input class="col-6" v-model.number="pagoChofer" label="Pago Chofer" outlined type="number" input-class="text-right" required/>
                   <q-input class="col-6" v-model.number="montoGira" label="Monto Gira" outlined type="number" input-class="text-right" required/>
                   <q-input class="col-6" v-model.number="viaticos" label="Viaticos" outlined type="number" input-class="text-right" required/>
-                  <q-input class="col-6" v-model.number="tipoCambio" label="Tipo de cambio" outlined type="number" input-class="text-right" required/>
                   <q-input class="col-6" v-model.number="peajes" label="Peajes" outlined type="number" input-class="text-right" required/>
                 </div>
               </q-card-section>
