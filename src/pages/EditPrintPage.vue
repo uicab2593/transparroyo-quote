@@ -77,7 +77,9 @@
 </script>
 
 <template>
-  <img src="~assets/arroyologo.png" class="show-print" style="position: absolute;margin: auto;z-index: 0;left: 0;right: 0;width: 700px;top: -150px;bottom: 0;opacity: .15;">
+  <div class="watermark">
+    <img src="~assets/arroyologo.png">
+  </div>
   <div style="max-width:1000px;margin:0 auto;position: relative;">
     <p class="text-center q-mb-none roboto-slab" style="font-size:35px;">COTIZACIÓN <q-btn class="no-print" round dense color="primary" icon="print" @click="print"/></p>
 
@@ -330,12 +332,34 @@
       display: none;
       white-space: pre-wrap;
     }
+    .watermark {
+      display: none;
+    }
+
     @media print {
       .no-print {
         display: none;
       }
       .show-print{
         display: block;
+      }
+      .watermark {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 0;
+        pointer-events: none;
+      }
+      .watermark img {
+        width: 800px;
+        opacity: 0.25;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
       }
   }
 </style>
