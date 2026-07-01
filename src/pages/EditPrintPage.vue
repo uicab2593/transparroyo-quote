@@ -19,6 +19,8 @@
   const clienteEmail = ref('')
   const printMode = ref(true)
 
+  const tituloVehiculo = ref('DETALLES DEL VEHÍCULO')
+  const tituloServicio = ref('Detalles del servicio')
   const detalles = ref('')
   const observaciones = ref('')
   const items = ref([])
@@ -75,7 +77,7 @@
 </script>
 
 <template>
-  <img src="~assets/arroyo-logo.webp" class="show-print" style="position: absolute;margin: auto;z-index: 0;left: 0;right: 0;max-width: 700px;top: 0;bottom: 0;opacity: .1;">
+  <img src="~assets/arroyologo.png" class="show-print" style="position: absolute;margin: auto;z-index: 0;left: 0;right: 0;width: 700px;top: -150px;bottom: 0;opacity: .15;">
   <div style="max-width:1000px;margin:0 auto;position: relative;">
     <p class="text-center q-mb-none roboto-slab" style="font-size:35px;">COTIZACIÓN <q-btn class="no-print" round dense color="primary" icon="print" @click="print"/></p>
 
@@ -103,7 +105,7 @@
           </p>
         </td>
         <td style="position: relative;">
-          <img src="~assets/arroyo-logo.webp" style="width: 180px;position: absolute;top: -70px;right: 0;">
+          <img src="~assets/arroyologo.png" style="width: 180px;position: absolute;top: -70px;right: 0;">
         </td>
       </tr>
     </table>
@@ -178,7 +180,7 @@
       <thead>
         <tr class="tr1">
           <th style="width: 10%;"><strong>CANT. BUSES</strong></th>
-          <th style="width: 70%;"><strong>DETALLES DEL VEHÍCULO</strong></th>
+          <th style="width: 70%;"><strong><span class="show-print">{{tituloVehiculo}}</span><q-input class="no-print" v-model="tituloVehiculo" dense outlined /></strong></th>
           <th style="width: 10%;"><strong>PRECIO UNITARIO</strong></th>
           <th style="width: 10%;"><strong>TOTAL</strong></th>
           <th class="no-print"></th>
@@ -229,7 +231,7 @@
     </table>
     <table border="1" cellspacing="0" cellpadding="2">
       <tr>
-        <td style="width:60%"><strong>Detalles del servicio</strong></td>
+        <td style="width:60%"><strong><span class="show-print">{{tituloServicio}}</span><q-input class="no-print" v-model="tituloServicio" dense outlined /></strong></td>
         <td></td>
       </tr>
       <tr>
@@ -326,6 +328,7 @@
     }
     .show-print{
       display: none;
+      white-space: pre-wrap;
     }
     @media print {
       .no-print {
